@@ -23,27 +23,30 @@
 	}],
 	"Nav":{
 		"Home":{
-			"Url":"./index.html"
+			"Url":"index.html"
 		},
-		"Prototypes \u25BE":{
-			"Url":"./prototypes/index.html",
+		"Prototypes":{
+			"Url":"prototypes/index.html",
 			"SubNav":{
 				"Current":{
+					"Url":""
+				},
+				"Experimental":{
 					"Url":""
 				},
 				"Archived":{
 					"Url":""
 				},
 				"Guide":{
-					"Url":"../guide/clear-cache.html"
+					"Url":"guide/clear-cache.html"
 				}
 			}
 		},
 		"Research":{
-			"Url":"../research/360°-camera-and-vr.html"
+			"Url":"research/360°-camera-and-vr.html"
 		},
 		"Team":{
-			"Url":"../team/index.html"
+			"Url":"team/index.html"
 		}
 	},
 	"_page_item_num":10,
@@ -53,6 +56,7 @@
 	"Source_js":"./js/",
 	"Source_img":"./img/",
 	"Source_img_atricle":"./img_data/",
+	"Source_nav":"./",
 	"filename":"./_view/controls",
 	"_Path_ViewFolder":"./_view/",
 	"_Path_DataFolder":"./_data/",

@@ -56,8 +56,8 @@ p img {
 .header {
   background-color: #fff;
   box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-  /*position: fixed;
-  position: relative;*/
+  /*position: fixed;*/
+  position: relative;
   width: 1024px;
   margin: 0 auto;
   z-index: 3;
@@ -103,15 +103,30 @@ p img {
   max-height: 0;
   transition: max-height .2s ease-out;
 }
-/* not showing sub menu by default */
-.header .menu li ul{
+.header .menu input {
   display: none;
 }
-/*.header .menu li:hover ul, .menu li:focus ul {
+.header .menu li ul.subMenu {
+  display: none;
+  width: 100%;
+  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+}
+/* trying accordion from here */
+.header .menu li:hover>ul, .menu li:focus ul{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 50px;
+}
+/*
+.header ul.menu li ul li{
+  float: none;
+}
+.header .menu>li:hover ul, .menu li:focus ul {
   position: absolute;
   display: block;
-}*/
-/* submenu */
+}
+/* submenu styling*/
 .subMenu{
   background: #ccc;
   width: 100%;
@@ -166,7 +181,7 @@ p img {
 }
 
 .header .menu-btn:checked ~ .menu {
-  max-height: 240px;
+  max-height: 100%; /* was 240px */
 }
 
 .header .menu-btn:checked ~ .menu-icon .navicon {
