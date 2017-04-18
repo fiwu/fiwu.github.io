@@ -118,6 +118,9 @@ p img {
   left: 0;
   top: 50px;
 }
+.header .menu li input {
+  display: none;
+}
 /*
 .header ul.menu li ul li{
   float: none;
