@@ -244,6 +244,7 @@ p img {
   height: 150px;
   border: 1px solid #ccc;
   position: relative;
+  margin-bottom: 20px;
 }
 .block-r{  
   float: right;  
