@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <%- include('controls/head') %>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+  <!-- nav -->
+  <header class="header">
+    <a href="/" class="logo"><img src="../img/logo.png"></a>
+    <input class="menu-btn" type="checkbox" id="menu-btn" />
+    <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+    <%- include('controls/header') %>
+  </header>
+  <div class='container'>
+  <!-- breadcrumb-->
+    <!--main content -->
+    <div class="main">
+<!-- or breadcrumb-->
+
+
+     <%- include('controls/aside') %>
+
+     
+     <!-- article -->
+     <dir class="content">     
+       <div class="section">
+        <%- include('controls/article') %>       	
+      </div>
+    </dir>
+
+
+  </div>
+  <!-- footer -->
+  <div style="clear:both;"></div>
+  <%- include('controls/footer') %>
+</div>
+</body>
+</html>

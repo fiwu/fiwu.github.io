@@ -1,0 +1,16 @@
+<ul class="menu">
+<li>
+	<% for(var name in Nav){ %>
+		<a <%= RuleName.toLowerCase().indexOf(name.toLowerCase()) !== -1 ? 'class=current' :'' %> href='<%= Nav[name].Url %>' ><%= name %></a>
+		<% if(Nav[name].SubNav){ %>
+		<ul class="subMenu">
+			<% for (var subName in Nav[name].SubNav){ %>
+				<li>
+					<a href='<%= Nav[name].SubNav[subName].Url %>' ><%= subName %></a>
+				</li>
+			<% } %>
+		</ul>
+		<% } %>
+	<% } %>
+</li>
+</ul>
