@@ -7,7 +7,7 @@ To let users accept our new design for spark more smooth, UXCCDS team defined 5 
 
 ## screen shot
 
-![Spark P1 2016](../../img_data/prototypes/Spark P1 2016.png)
+![Spark P1 2016](../../../img_data/prototypes/Spark P1 2016.png)
 
 # launch the prototype
 

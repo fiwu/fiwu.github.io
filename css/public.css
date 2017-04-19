@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Quicksand', sans-serif;
-  background-color: #f4f4f4;
+  background-color: #fefefe;
 }
 
 a {
@@ -32,6 +32,9 @@ p img {
   max-width: 28%; 
   float: left; 
   padding: 20px; 
+}
+.sideMenu li {
+  list-style: none;
 }
 .sideMenu a {
   display: block;
@@ -110,6 +113,7 @@ p img {
   display: none;
   width: 100%;
   box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+  background-color: #efefef;
 }
 /* trying accordion from here */
 .header .menu li:hover>ul, .menu li:focus ul{
@@ -120,6 +124,10 @@ p img {
 }
 .header .menu li input {
   display: none;
+}
+.header .menu li ul li a {
+  border-right: none;
+  padding: 10px 20px;
 }
 /*
 .header ul.menu li ul li{
@@ -227,6 +235,7 @@ p img {
   width: 100%;
   min-height: 60px;
   margin-bottom: 20px;
+  clear: both;
 }
 .intro span {
   display: block;
@@ -240,19 +249,22 @@ p img {
 .block-wrapper{
   width: 100%;
   margin-bottom: 20px;
+  clear: both;
 }
-.block-l, .block-r{
+.block-l, .block-r, .block-a{
   width: 48%;
-  float: left;
   height: 150px;
   border: 1px solid #ccc;
   position: relative;
   margin-bottom: 20px;
 }
+.block-l{
+  float: left;
+}
 .block-r{  
   float: right;  
 }
-.block-l a, .block-r a{
+.block-l a, .block-r a, .block-a a{
   display: block;
   width: 100%;
   background-color: #666;
@@ -266,6 +278,10 @@ p img {
 }
 .block-l a:hover, .block-r a:hover{
   opacity: 1;
+
+}
+.block-a {
+  width: 100%;
 
 }
 /* 48em = 768px */

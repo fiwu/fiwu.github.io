@@ -13,15 +13,15 @@ The following steps show how to clear cache in Chrome on Mac OS. You can do simi
 
 1) Open the history tab
 
-![Open the history tab](../../img_data/guide/clearCache1.png)
+![Open the history tab](../../../img_data/guide/clearCache1.png)
 
 2) Click 'Clear browsing data'
 
-![Click 'Clear browsing data'](../../img_data/guide/clearCache2.png)
+![Click 'Clear browsing data'](../../../img_data/guide/clearCache2.png)
 
 3) Select 'Cached images and files' and choose the 'the beginning of time'
 
-![Clear browsing data](../../img_data/guide/clearCache3.png)
+![Clear browsing data](../../../img_data/guide/clearCache3.png)
 
 4) Click button 'Clear browsing data' to clear the cache.
 

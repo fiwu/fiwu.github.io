@@ -10,15 +10,15 @@ The following steps show how to open the mobile simulator in Chrome
 
 1) Open the develtop tools
 
-![Open the develtop tools](../../img_data/guide/ChromeSimulator1.png)
+![Open the develtop tools](../../../img_data/guide/ChromeSimulator1.png)
 
 2) Click the simulator button
 
-![Click the simulator button](../../img_data/guide/ChromeSimulator2.png)
+![Click the simulator button](../../../img_data/guide/ChromeSimulator2.png)
 
 # Select the device
 
 The simulator allows user to change its size and rotate the device.
 
-![Click the simulator button](../../img_data/guide/ChromeSimulator3.png)
+![Click the simulator button](../../../img_data/guide/ChromeSimulator3.png)
 

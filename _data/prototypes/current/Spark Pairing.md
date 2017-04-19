@@ -6,7 +6,7 @@ Desc: Spark Prototype
 
 ### screen shot
 
-![pairing prototype mobile](../../img_data/prototypes/spark-pairing1.png)
+![pairing prototype mobile](../../../img_data/prototypes/spark-pairing1.png)
 
 ## link
 
