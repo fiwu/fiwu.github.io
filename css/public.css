@@ -87,7 +87,7 @@ p img {
 
 .header li a:hover,
 .header .menu-btn:hover {
-  background-color: #f4f4f4;
+  background-color: #f6f6f6;
 }
 
 .header .logo img {
@@ -115,14 +115,15 @@ p img {
   display: none;
   width: 100%;
   box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-  background-color: #efefef;
+  background-color: #F13712;
+
 }
 /* trying accordion from here */
 .header .menu li:hover>ul, .menu li:focus ul{
   display: inline-block;
   position: absolute;
   left: 0;
-  top: 50px;
+  top: 60px;
 }
 .header .menu li input {
   display: none;
@@ -140,13 +141,12 @@ p img {
   display: block;
 }
 /* submenu styling*/
-.subMenu{
-  background: #ccc;
-  width: 100%;
-}
 .subMenu li a{
   font-size: 14px;
-  color: #666666;  
+  color: #fff;  
+}
+.subMenu li:hover a{
+  color: #666666;
 }
 /* menu icon */
 
