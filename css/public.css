@@ -3,6 +3,7 @@ body {
   margin: 0;
   font-family: 'Quicksand', sans-serif;
   background-color: #fefefe;
+  overflow: auto;
 }
 
 a {
@@ -51,15 +52,16 @@ p img {
   max-width: 1024px;
   margin: 40px auto;
   text-align: center;
-  border-top:1px solid #F13712;
+  border-top:1px solid #666;
 }
 
 /* header */
 
 .header {
   background-color: #fff;
-  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-  /*position: fixed;*/
+  /*box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+  position: fixed;*/
+  border-bottom: 1px solid #F13712;
   position: relative;
   width: 1024px;
   margin: 0 auto;
@@ -77,7 +79,7 @@ p img {
 .header li a {
   display: block;
   padding: 20px 20px;
-  border-right: 1px solid #f4f4f4;
+  /*border-right: 1px solid #f4f4f4;*/
   text-decoration: none;
   text-align: center;
   color: #F13712;
