@@ -100,7 +100,10 @@ p img {
   padding-top:13px;
   padding-left: 20px;
 }
-
+.header li a.current {
+  border-top:3px solid #F13712;
+  border-bottom:3px solid #F13712;
+}
 /* menu */
 
 .header .menu {

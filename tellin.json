@@ -1,13 +1,13 @@
 {
 	"_Rule":[{
-		"Name":"Home",
-		"View":"index.ejs",
-		"Data":"./",
-		"Controller":"index"
-	},{
 		"Name":"Prototypes",
 		"View":"docs.ejs",
 		"Data":"./prototypes",
+		"Controller":"detail"
+	},{
+		"Name":"Research",
+		"View":"docs.ejs",
+		"Data":"./research",
 		"Controller":"detail"
 	},{
 		"Name":"Prototypes",
@@ -19,12 +19,11 @@
 		"View":"team.ejs",
 		"Data":"./team",
 		"Controller":"index"
-	},
-	{
-		"Name":"Research",
-		"View":"docs.ejs",
-		"Data":"./research",
-		"Controller":"detail"
+	},{
+		"Name":"Home",
+		"View":"index.ejs",
+		"Data":"./",
+		"Controller":"index"
 	}],
 	"Nav":{
 		"Home":{
