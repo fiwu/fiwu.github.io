@@ -88,6 +88,8 @@ p img {
 .header li a:hover,
 .header .menu-btn:hover {
   background-color: #f6f6f6;
+  border-top: 3px solid #666666;
+  border-bottom: 3px solid #666666;
 }
 
 .header .logo img {
