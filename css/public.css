@@ -315,10 +315,12 @@ p img {
     width: 100%;
     position: fixed;
   }
+  /*.header .menu li {
+    position: relative;
+  }*/
   .sideMenu{
     min-width: 100%;
-    border-bottom: 1px solid #ccc;
-    
+    border-bottom: 1px solid #ccc;    
   }
   .sideMenu a{
     padding: 5px 10px;
@@ -341,10 +343,18 @@ p img {
     width: 100%;
     margin-top: 20px;
   }
-}
-
-@media (min-width: 48em) {
-  .section-split a {
-    width: 50%;
+  .header li a.current {
+    border-top:none;
+    border-bottom:none; 
+  }
+  .header li a:hover{
+    border-top: none;
+    border-bottom: none;
+  }
+  
+  .header .menu li:hover>ul, .menu li:focus ul, 
+  .header .menu li:hover>a label,
+  .header .menu li>a label{
+    display: none;
   }
 }
