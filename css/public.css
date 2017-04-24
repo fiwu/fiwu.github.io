@@ -91,7 +91,10 @@ p img {
   border-top: 3px solid #666666;
   border-bottom: 3px solid #666666;
 }
-
+.header li ul li a:hover{
+  border-top:3px solid #F13712;
+  border-bottom:3px solid #F13712;
+}
 .header .logo img {
   display: block;
   float: left;/*
