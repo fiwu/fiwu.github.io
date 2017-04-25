@@ -42,6 +42,19 @@ p img {
   padding: 10px 15px;
   text-align: right;
 }
+.breadcrumbs{
+  padding: 0;
+}
+.breadcrumbs li{
+  display: inline;
+  font-size: 14px;
+}
+.breadcrumb li a{
+  color: #333;
+}
+.breadcrumbs li+li::before{
+  content: ' › ';
+}
 .content{
   max-width: 68%; 
   float: left; 
@@ -314,6 +327,9 @@ p img {
 }
 /* change side menu and content to 100% screen width when screen size is smaller than 768px*/
 @media only screen and (max-width: 768px) {
+  body{
+    overflow-x: hidden;
+  }
   .header{
     width: 100%;
     position: fixed;
@@ -332,6 +348,8 @@ p img {
   .content{
     border: none;
     min-width: 100%;
+    padding: 10px;
+    margin-left: 0;
   }
   .main {
     margin-top:40px;
@@ -354,10 +372,16 @@ p img {
     border-top: none;
     border-bottom: none;
   }
-  
   .header .menu li:hover>ul, .menu li:focus ul, 
   .header .menu li:hover>a label,
   .header .menu li>a label{
     display: none;
   }
+  .breadcrumbs{
+    padding-top: 40px;
+  }
+  p img {
+  max-width: 80%; 
+  margin-right: 20px;
+}
 }

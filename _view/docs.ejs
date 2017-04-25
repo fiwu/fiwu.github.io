@@ -13,24 +13,23 @@
     <%- include('controls/header') %>
   </header>
   <div class='container'>
-    <!-- breadcrumb -->
-       <!--main content -->
-    <div class="main">
-<!-- or breadcrumb-->
-     <%- include('controls/aside') %>
-   
-     <!-- article -->
-     <dir class="content">     
-       <div class="section">
-        <%- include('controls/article') %>       	
-      </div>
-    </dir>
+   <!--main content -->
+   <div class="main">
+    <%- include('controls/breadcrumbs') %>
+    <%- include('controls/aside') %>
+    
+    <!-- article -->
+    <dir class="content">     
+     <div class="section">
+      <%- include('controls/article') %>       	
+    </div>
+  </dir>
 
 
-  </div>
-  <!-- footer -->
-  <div style="clear:both;"></div>
-  <%- include('controls/footer') %>
+</div>
+<!-- footer -->
+<div style="clear:both;"></div>
+<%- include('controls/footer') %>
 </div>
 </body>
 </html>
