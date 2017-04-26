@@ -19,6 +19,11 @@
 		"View":"list.ejs",
 		"Data":"./prototypes/current",
 		"Controller":"list"
+	},{
+		"Name":"Guide",
+		"View":"list.ejs",
+		"Data":"./prototypes/current",
+		"Controller":"list"
 	},
 	{
 		"Name":"Prototypes",
