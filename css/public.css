@@ -332,6 +332,7 @@ p img {
 }
 .pagination{
   margin-top: 40px;
+  text-align: center;
 }
 .divider{
   border-bottom: 1px dotted #ccc;
