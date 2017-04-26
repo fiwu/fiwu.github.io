@@ -22,7 +22,7 @@
 	},{
 		"Name":"Guide",
 		"View":"list.ejs",
-		"Data":"./prototypes/current",
+		"Data":"./prototypes/guide",
 		"Controller":"list"
 	},
 	{
