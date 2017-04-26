@@ -2,24 +2,34 @@
 <html>
   <head>
       <%- include('controls/head') %>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
+  <header class="header">
+    <a href="<%= Source_nav %>index.html" class="logo"><img src="<%= Source_img %>logo.png"></a>
+    <input class="menu-btn" type="checkbox" id="menu-btn" />
+    <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
       <%- include('controls/header') %>
+  </header>
         <div class='container'>
             <div class='main'>
-            <%- include('controls/breadcrumbs') %>   
+             <%- include('controls/breadcrumbs') %>
+             <!-- article list below -->
               <% for(var i in List){ %>
                 <a class='list_item' target='_blank' href='<%= List[i].RenderData.NameHTML %>'>
-                  <h1><%= List[i].RenderData.Title %></h1>
-                  <p><%= List[i].RenderData.Desc %></p>
-                  <p class='list_item_footer'><%= List[i].RenderData.Date %></p>
+                  <span class="list_title"><%= List[i].RenderData.Title %></span>
                 </a>
+                  <p><span class='list_item_date'><%= List[i].RenderData.Date %></span><br />
+                  <%= List[i].RenderData.Desc %></p>  
+                  <hr class="divider" />         
               <% } %> 
+              <!-- end of list items -->              
               <div class='pagination'>
-                <%- PageFirst %><%- PagePre %><%- PageGroup %><%- PageNext %><%- PageLast %>
+               Page <%- PageFirst %><%- PagePre %><%- PageGroup %><%- PageNext %><%- PageLast %>
               </div>    
             </div>
         </div>  
+         <div style="clear:both;"></div>
       <%- include('controls/footer') %>
   </body>
 </html>

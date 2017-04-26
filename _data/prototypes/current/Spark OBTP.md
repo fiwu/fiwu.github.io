@@ -1,5 +1,5 @@
 Title: Spark OBTP 2017
-Desc: OBTP prototype.
+Desc: Mobile and Desktop OBTP (One Button to Push) prototype.
 Date: 2017-1-20
 ---
 

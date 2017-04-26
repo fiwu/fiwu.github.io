@@ -10,6 +10,17 @@
 		"Data":"./research",
 		"Controller":"detail"
 	},{
+		"Name":"Research",
+		"View":"list.ejs",
+		"Data":"./research",
+		"Controller":"list"
+	},{
+		"Name":"Current",
+		"View":"list.ejs",
+		"Data":"./prototypes/current",
+		"Controller":"list"
+	},
+	{
 		"Name":"Prototypes",
 		"View":"prototypes.ejs",
 		"Data":"./prototypes",
