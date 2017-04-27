@@ -173,6 +173,7 @@ p img {
 .subMenu li:hover a{
   color: #666666;
 }
+
 /* menu icon */
 
 .header .menu-icon {
@@ -192,7 +193,6 @@ p img {
   transition: background .2s ease-out;
   width: 18px;
 }
-
 .header .menu-icon .navicon:before,
 .header .menu-icon .navicon:after {
   background: #333;
@@ -240,6 +240,7 @@ p img {
 }
 
 /* Banner */
+
 .banner{
   width: 100%;
   margin: 0 auto;
@@ -249,7 +250,6 @@ p img {
   color: #fff;
   position: relative;
   margin-bottom: 20px;
-
 }
 .banner span {
   display: block;
