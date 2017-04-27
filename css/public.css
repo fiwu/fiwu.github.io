@@ -56,6 +56,9 @@ p img {
 .breadcrumbs li+li::before{
   content: ' › ';
 }
+.breadcrumbs li:last-child a{
+  text-decoration: none;
+}
 .content{
   max-width: 68%; 
   float: left; 
