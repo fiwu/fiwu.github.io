@@ -4,15 +4,15 @@ Desc: Mobile and Desktop Spark Prototype featuring the pairing functions
 
 # Mobile Prototype
 
-### screen shot
+### Screen shot
 
 ![pairing prototype mobile](../../../img_data/prototypes/spark-pairing1.png)
 
-## link
+## Prototype Link
 
 [https://uxccds.github.io/SparkMobile/SparkMobilePairing/sparkMobilePair.html](https://uxccds.github.io/SparkMobile/SparkMobilePairing/sparkMobilePair.html)
 
-## usage
+## How-to
 
 1) Please use Chrome (mobile mode) or IPhone (webapp mode) to view the prototype.
 
@@ -22,25 +22,25 @@ Desc: Mobile and Desktop Spark Prototype featuring the pairing functions
 
 # Desktop
 
-## link
+## Link
 
 [https://uxccds.github.io/Spark-Hype-MVO/devicepairing-desktop.html](https://uxccds.github.io/Spark-Hype-MVO/devicepairing-desktop.html)
 
-## usage
+## How-to
 
 1) Please use Chrome to view this prototype.
 
 # SparkBoard
 
-## link
+## Prototype Link
 
 [https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
 
-## usage
+## How-tos
 
 1) Please use Chrome to view this prototype.
 
-2)  You can use the following hot keys to go to the screens.
+2) You can use the following hot keys to go to the screens.
 
 key space -> black screen
 
