@@ -49,7 +49,7 @@
 			"Url":"prototypes/index.html",
 			"SubNav":{
 				"Current":{
-					"Url":"prototypes/current/spark-pairing.html"
+					"Url":"prototypes/current/index.html"
 				},
 				"Experimental":{
 					"Url":""
@@ -58,12 +58,12 @@
 					"Url":""
 				},
 				"Guide":{
-					"Url":"prototypes/guide/clear-cache.html"
+					"Url":"prototypes/guide/index.html"
 				}
 			}
 		},
 		"Research":{
-			"Url":"research/360°-camera-and-vr.html"
+			"Url":"research/index.html"
 		},
 		"Team":{
 			"Url":"team/index.html"
