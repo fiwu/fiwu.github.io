@@ -16,14 +16,17 @@
              <%- include('controls/breadcrumbs') %>
              <!-- article list below -->
               <% for(var i in List){ %>
+              <div class="articleBlock">
                 <a class='list_item' target='_blank' href='<%= List[i].RenderData.NameHTML %>'>
                   <span class="list_title"><%= List[i].RenderData.Title %></span>
                 </a>
                   <p><span class='list_item_date'><%= List[i].RenderData.Date %></span><br />
                   <%= List[i].RenderData.Desc %></p>  
-                  <hr class="divider" />         
+              </div>  
+                 <!-- <hr class="divider" />   -->
               <% } %> 
-              <!-- end of list items -->              
+              <!-- end of list items -->    
+              <div style="clear:both;"></div>          
               <div class='pagination'>
                Page <%- PageFirst %><%- PagePre %><%- PageGroup %><%- PageNext %><%- PageLast %>
               </div>    

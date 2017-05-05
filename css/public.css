@@ -184,7 +184,6 @@ p img {
   position: relative;
   user-select: none;
 }
-
 .header .menu-icon .navicon {
   background: #333;
   display: block;
@@ -310,7 +309,19 @@ p img {
   width: 100%;
 
 }
-/* list view properties */
+/* list view properties for desktop */
+.articleBlock{
+  display: block;
+  border: 1px solid #ccc;
+  width: 25%;
+  height: 160px;
+  padding: 20px;
+  float: left;
+  margin: 10px;
+}
+.articleBlock:hover{
+  background-color: #efefef;
+}
 .list_item{
     color: #F13712;
 }
@@ -337,9 +348,11 @@ p img {
   margin-top: 40px;
   text-align: center;
 }
+/* divider not used */
 .divider{
   border-bottom: 1px dotted #ccc;
   border-top: 0;
+  display: none;
 }
 /* 48em = 768px */
 
@@ -374,6 +387,7 @@ p img {
   .sideMenu{
     min-width: 100%;
     border-bottom: 1px solid #ccc;    
+    display: none;
   }
   .sideMenu a{
     padding: 5px 10px;
@@ -418,7 +432,49 @@ p img {
   max-width: 80%; 
   margin-right: 20px;
   border:1px solid #ccc;
+  }
+  /* list view properties for mobile */
+  .articleBlock{
+  padding: 20px 0; 
+  display: block;
+  border: none;
+  width: 100%;
+  height: 100px;
+  border-bottom: 1px dotted #ccc;
+  float: none;
 }
+  .list_item{
+    color: #F13712;
+  }
+  .list_item span:hover{
+    color:#666;
+  }
+  .list_item p{
+    text-decoration: none;
+    font-size: 16px;
+    padding: 0;
+    margin: ;
+  }
+  .list_title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #F13712;
+    padding: 0;
+  }
+  .list_item_date{
+    font-size: 14px;
+    color: #777;
+  }
+  .pagination{
+    margin-top: 40px;
+    text-align: center;
+  }
+  /* divider not used */
+  .divider{
+    display: block;
+    border-bottom: 1px dotted #ccc;
+    border-top: 0;
+  }
 }
 @media only screen and (max-width: 480px) {
   .intro {
