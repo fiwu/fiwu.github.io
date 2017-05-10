@@ -7,14 +7,16 @@
 <body>
   <!-- nav -->
   <header class="header">
+    <div class="NavContent">
     <a href="<%= Source_nav %>index.html" class="logo"><img src="<%= Source_img %>logo.png"></a>
     <input class="menu-btn" type="checkbox" id="menu-btn" />
     <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
     <%- include('controls/header') %>
+    </div>
   </header>
-  <div class='container'>  
+  <div class='container'> 
+  <div class="wrapper"> 
     <!--main content -->
-    <div class="container_left"></div>
     <div class="main"> 
     <%- include('controls/breadcrumbs') %>
          <!-- banner -->
@@ -31,7 +33,8 @@
         <div class="block-a"><a href="./team/index.html"><span>Team</span></a></div>
       </div>
     </div>
-    <div class="container_left"></div>
+    
+  </div>
   </div>
   <!-- footer -->
   </div>

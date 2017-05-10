@@ -22,10 +22,15 @@ p img {
 }
 .container {
   width: 100%;
-  display:flex; flex-flow: row;
+  display:flex; 
+  flex-flow: row;
   display: -webkit-flex; -webkit-flex-flow: row;
   margin:0 auto; 
   position: relative;
+}
+.wrapper{
+  width: 1024px;
+  margin:20px auto;
 }
 .container_left{
   width: 40px;
@@ -82,13 +87,18 @@ p img {
 
 .header {
   background-color: #fff;
-  /*box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-  position: fixed;*/
   border-bottom: 1px solid #F13712;
   position: relative;
   width: 100%;
   margin: 0 auto;
-  z-index: 3;
+  z-index: 3;  
+}
+
+/* center nav items */
+.NavContent{
+  width: 1024px;
+  margin: 0 auto;
+  margin-top: 20px;
 }
 
 .header ul {
@@ -283,7 +293,8 @@ p img {
   margin-bottom: 20px;
   clear: both;
 }
-.block-l, .block-r, .block-a{
+/* blocks for right, left, top and bottom right, top and bottom left, and all */
+.block-l, .block-r, .block-a, .block-tr, .block-tl, .block-br, .block-bl{
   width: 48%;
   height: 150px;
   border: 1px solid #ccc;

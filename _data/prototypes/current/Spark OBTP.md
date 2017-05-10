@@ -1,7 +1,7 @@
 Title: Spark OBTP 2017
 Desc: Mobile and Desktop OBTP (One Button to Push) prototype.
 Date: 2017-1-20
-Cover: prototypes/Spark OBTP_Cover.png
+Cover: prototypes/cover/Spark OBTP_Cover.png
 ---
 
 ![Spark OBTP](../../../img_data/prototypes/Spark OBTP_Cover.png)

@@ -1,6 +1,6 @@
 Title: Spark Pairing 2017
 Desc: Mobile and Desktop Spark Prototype featuring the pairing functions
-Cover: prototypes/Spark Pairing_Cover.png
+Cover: prototypes/cover/Spark Pairing_Cover.png
 ---
 
 ![Spark OBTP](../../../img_data/prototypes/Spark Pairing_Cover.png)
