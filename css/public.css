@@ -111,8 +111,10 @@ p img {
 
 .header li a {
   display: block;
-  padding: 20px 20px;
-  /*border-right: 1px solid #f4f4f4;*/
+  /*padding: 20px 20px;
+  border-right: 1px solid #f4f4f4;*/
+  border: 1px solid #fff;
+  border-radius: 5px;
   text-decoration: none;
   text-align: center;
   color: #F13712;
@@ -121,12 +123,20 @@ p img {
 .header li a:hover,
 .header .menu-btn:hover {
   background-color: #f6f6f6;
+  /*
   border-top: 3px solid #666666;
-  border-bottom: 3px solid #666666;
+  border-bottom: 3px solid #666666;*/
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+.header li ul li a{
+  border: none;
 }
 .header li ul li a:hover{
-  border-top:3px solid #F13712;
-  border-bottom:3px solid #F13712;
+ /* border-top:3px solid #F13712;
+  border-bottom:3px solid #F13712;*/
+  border: none;
+  background: #F13712;
 }
 .header .logo img {
   display: block;
@@ -139,8 +149,14 @@ p img {
   padding-left: 20px;
 }
 .header li a.current {
+  /*
   border-top:3px solid #F13712;
   border-bottom:3px solid #F13712;
+  */
+  background: #F13712;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: #fff;
 }
 /* menu */
 
