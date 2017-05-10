@@ -19,6 +19,8 @@
               <div class="articleBlock">
                 <a class='list_item' target='_blank' href='<%= List[i].RenderData.NameHTML %>'>
                   <span class="list_title"><%= List[i].RenderData.Title %></span>
+                  <!-- article thumbnail -->
+                  <img src='<%= Source_img_atricle %><%= List[i].RenderData.Thumb %>'>
                 </a>
                   <p><span class='list_item_date'><%= List[i].RenderData.Date %></span><br />
                   <%= List[i].RenderData.Desc %></p>  

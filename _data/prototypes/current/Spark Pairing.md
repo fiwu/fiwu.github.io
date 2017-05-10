@@ -1,5 +1,6 @@
 Title: Spark Pairing 2017
 Desc: Mobile and Desktop Spark Prototype featuring the pairing functions
+Thumb: prototypes/spark-pairing1.png
 ---
 
 # Mobile Prototype
