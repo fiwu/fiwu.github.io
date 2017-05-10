@@ -2,7 +2,7 @@
 <html>
 <head>
   <%- include('controls/head') %>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="<%= Source_css %>detail.css" media="screen">
 </head>
 <body>
   <!-- nav -->
@@ -13,23 +13,20 @@
     <%- include('controls/header') %>
   </header>
   <div class='container'>
-   <!--main content -->
-   <div class="main">
-    <%- include('controls/breadcrumbs') %>
-    <%- include('controls/aside') %>
-    
-    <!-- article -->
-    <dir class="content">     
-     <div class="section">
-      <%- include('controls/article') %>       	
+    <!--main content -->
+    <div class="container_left"></div>
+    <div class="main">
+      <%- include('controls/breadcrumbs') %>
+      <!-- article -->
+      <div class="content">     
+        <div class="section">
+          <%- include('controls/article') %>       	
+        </div>
+      </div>
     </div>
-  </dir>
-
-
-</div>
-<!-- footer -->
-<div style="clear:both;"></div>
-<%- include('controls/footer') %>
-</div>
+    <%- include('controls/aside') %>
+    <!-- footer -->
+  </div>
+  <%- include('controls/footer') %>
 </body>
 </html>

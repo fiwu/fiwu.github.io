@@ -4,7 +4,7 @@
   <title>Firebase</title>
 <meta charset='utf-8'>
 <link rel="icon" type="image/x-icon" href="../img/fav.ico">
-<meta name="viewport" content="width=device-width,minimal-ui"  >
+<meta name="viewport" content="width=device-width,minimal-ui,initial-scale=1.0" />
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link rel="stylesheet" type="text/css" href="../css/public.css" media="screen">
@@ -15,7 +15,7 @@
 <script type="text/javascript" src="../js/highlight.pack.js"></script>
 <style type="text/css"></style>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="../css/detail.css" media="screen">
 </head>
 <body>
   <!-- nav -->
@@ -79,9 +79,10 @@
 </ul>
   </header>
   <div class='container'>
-   <!--main content -->
-   <div class="main">
-    <ul class="breadcrumbs">
+    <!--main content -->
+    <div class="container_left"></div>
+    <div class="main">
+      <ul class="breadcrumbs">
 	<li><a href="../index.html">Home</a></li> 
 	</li>
 	
@@ -95,26 +96,10 @@
 	
 </ul>
 
-    <ul class='sideMenu'>
-	
-	
-		<li><a   href='360°-camera-and-vr.html'>360° Camera and VR</a></li>
-	
-		<li><a   href='3d-gyroscope.html'>3D Gyroscope</a></li>
-	
-		<li><a   href='speech-recognition.html'>Speech Recognition</a></li>
-	
-		<li><a   href='webgl.html'>WebGL</a></li>
-	
-		<li><a class=current  href='firebase.html'>Firebase</a></li>
-	
-	
-</ul>
-    
-    <!-- article -->
-    <dir class="content">     
-     <div class="section">
-      <article class='article'>
+      <!-- article -->
+      <div class="content">     
+        <div class="section">
+          <article class='article'>
 	<header class='article_header'>
 		<h1>Firebase</h1>
 	</header>
@@ -124,14 +109,14 @@
 <p>Here is demo with Firebase. </p>
 <h2 id="desktop">Desktop</h2>
 <h3 id="link">link</h3>
-<p><a href="https://uxccds.github.io/SparkMobile/pair/page/wall.html">https://uxccds.github.io/SparkMobile/pair/page/wall.html</a></p>
+<p><a href="https://uxccds.github.io/SparkMobile/pair/page/wall.html">wall.html</a></p>
 <h3 id="usage">usage</h3>
 <p>1) Please use Chrome to open this prototype.</p>
 <p>2) Wait for the loading and open the mobile protoype when you see the following screen.</p>
 <p><img src="../img_data/research/Firebase1.png" alt="Firebase prototype - desktop"/> </p>
 <h2 id="mobile">Mobile</h2>
 <h3 id="link">link</h3>
-<p><a href="https://uxccds.github.io/SparkMobile/pair/page/phone.html">https://uxccds.github.io/SparkMobile/pair/page/phone.html</a></p>
+<p><a href="https://uxccds.github.io/SparkMobile/pair/page/phone.html">phone.html</a></p>
 <h3 id="usage">usage</h3>
 <p>1) Use <a href="../guide/chrome&#39;s-mobile-simulator.html">Chrome mobile simulator</a> to view the prototype. You can also install the prototype as <a href="../guide/install-web-app.html">web app</a> on your iPhone.</p>
 <p><img src="../img_data/research/Firebase2.png" alt="Firebase prototype - desktop"/></p>
@@ -142,23 +127,35 @@
 	</div>
 	<footer class='article_footer'>
 		<div class="pagination">
-			<a  class="prev" href="webgl.html">← Prev</a>
+			<a  class="prev" href="3d-gyroscope.html">← Prev</a>
 			 	 	
 		</div>		
 	</footer>
 </article>
        	
+        </div>
+      </div>
     </div>
-  </dir>
-
-
-</div>
-<!-- footer -->
-<div style="clear:both;"></div>
-<footer class='copyright'>
+    <ul class='sideMenu'>
+	
+	
+		<li><a   href='webgl.html'>WebGL</a></li>
+	
+		<li><a   href='360°-camera-and-vr.html'>360° Camera and VR</a></li>
+	
+		<li><a   href='speech-recognition.html'>Speech Recognition</a></li>
+	
+		<li><a   href='3d-gyroscope.html'>3D Gyroscope</a></li>
+	
+		<li><a class=current  href='firebase.html'>Firebase</a></li>
+	
+	
+</ul>
+    <!-- footer -->
+  </div>
+  <footer class='copyright'>
 	<p>CCDS UX Prototype Team ©2016-2017 <a target="_blank" href="https://en.wikipedia.org/wiki/MIT_License" class='license'>MIT license</a></p>
 </footer>
 <script type="text/javascript">hljs.initHighlightingOnLoad();</script>
-</div>
 </body>
 </html>

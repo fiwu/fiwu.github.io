@@ -1,19 +1,27 @@
 Title: Spark Pairing 2017
 Desc: Mobile and Desktop Spark Prototype featuring the pairing functions
-Thumb: prototypes/spark-pairing1.png
+Cover: prototypes/Spark Pairing_Cover.png
 ---
 
-# Mobile Prototype
+![Spark OBTP](../../../img_data/prototypes/Spark Pairing_Cover.png)
 
-### Screen shot
+### Mobile Prototype
+
+[sparkMobilePair.html](https://uxccds.github.io/SparkMobile/SparkMobilePairing/sparkMobilePair.html)
+
+### Desktop Prototype
+
+[devicepairing-desktop.html](https://uxccds.github.io/Spark-Hype-MVO/devicepairing-desktop.html)
+
+### MX Prototype
+
+[sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
+
+# Instuctions for use
 
 ![pairing prototype mobile](../../../img_data/prototypes/spark-pairing1.png)
 
-## Prototype Link
-
-[https://uxccds.github.io/SparkMobile/SparkMobilePairing/sparkMobilePair.html](https://uxccds.github.io/SparkMobile/SparkMobilePairing/sparkMobilePair.html)
-
-## How-to
+### On Mobile
 
 1) Please use Chrome (mobile mode) or IPhone (webapp mode) to view the prototype.
 
@@ -21,23 +29,11 @@ Thumb: prototypes/spark-pairing1.png
 
 3) Choose a version to continue.
 
-# Desktop
-
-## Link
-
-[https://uxccds.github.io/Spark-Hype-MVO/devicepairing-desktop.html](https://uxccds.github.io/Spark-Hype-MVO/devicepairing-desktop.html)
-
-## How-to
+### On Desktop
 
 1) Please use Chrome to view this prototype.
 
-# SparkBoard
-
-## Prototype Link
-
-[https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
-
-## How-tos
+### On MX
 
 1) Please use Chrome to view this prototype.
 
@@ -48,6 +44,4 @@ key space -> black screen
 key 1 -> the 'hello' screen.
 
 key 2 -> the screen with activity balls
-
-
 

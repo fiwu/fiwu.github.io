@@ -1,5 +1,6 @@
 Title: Chrome's Mobile Simulator
 SortIndex: 3
+Cover: guide/ChromeSimulator1.png
 ---
 
 The Chrome on Mac OS / Windows offers a mobile simulator. You can preview how the prototype is on the real mobile devices according to this simlator. 

@@ -1,15 +1,26 @@
 Title: Spark OBTP 2017
 Desc: Mobile and Desktop OBTP (One Button to Push) prototype.
 Date: 2017-1-20
+Cover: prototypes/Spark OBTP_Cover.png
 ---
 
-# Mobile
+![Spark OBTP](../../../img_data/prototypes/Spark OBTP_Cover.png)
 
-## link
+### Mobile Prototype
 
-[https://uxccds.github.io/SparkMobile/SparkMobileP5/](https://uxccds.github.io/SparkMobile/SparkMobileP5/)
+[SparkMobileP5](https://uxccds.github.io/SparkMobile/SparkMobileP5/)
 
-## How-tos
+### Desktop Prototype
+
+[OBTP-Prototype.html](https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html)
+
+### MX Prototype
+
+[mx.html](https://uxccds.github.io/SparkMobile/pair/page/mx.html)
+
+# Instuctions for use
+
+### On Mobile
 
 1) Please use Chrome (mobile mode) or IPhone (webapp mode) to view the prototype.
 
@@ -17,23 +28,11 @@ Date: 2017-1-20
 
 3) Choose a version to continue.
 
-# Desktop
-
-## Prototype Link
-
-[https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html](https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html)
-
-## How-tos
+### On Desktop
 
 1) Please use Chrome to view this prototype.
 
-# MX
-
-## link
-
-[https://uxccds.github.io/SparkMobile/pair/page/mx.html](https://uxccds.github.io/SparkMobile/pair/page/mx.html)
-
-## How-tos
+### On MX
 
 1) Please use Chrome to view this prototype.
 
@@ -52,10 +51,10 @@ Date: 2017-1-20
 e.g.: 
 
 The link for mobile index page	
-[https://uxccds.github.io/SparkMobile/SparkMobileP5/?room=public](https://uxccds.github.io/SparkMobile/SparkMobileP5/?room=public)
+[SparkMobileP5/?room=public](https://uxccds.github.io/SparkMobile/SparkMobileP5/?room=public)
 
 The link for MX
-[https://uxccds.github.io/SparkMobile/pair/page/mx.html?room=public](https://uxccds.github.io/SparkMobile/pair/page/mx.html?room=public)
+[mx.html?room=public](https://uxccds.github.io/SparkMobile/pair/page/mx.html?room=public)
 
 In this example, the parameter added is 'room'.
 The parameter's value could be 'CCDS', 'UE', 'UT', 'private' or 'public'.

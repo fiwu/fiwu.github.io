@@ -1,5 +1,6 @@
 Title: Install Web App
 SortIndex: 2
+Cover: guide/InstallWebAppIOS1.PNG
 ---
 
 To achieve the best experience of our mobile prototypes, we recommand you installing the prototypes as web apps on your mobile devices.

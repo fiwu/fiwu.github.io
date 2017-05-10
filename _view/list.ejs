@@ -2,7 +2,7 @@
 <html>
   <head>
       <%- include('controls/head') %>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" type="text/css" href="<%= Source_css %>list.css" media="screen">
   </head>
   <body>
   <header class="header">
@@ -12,19 +12,19 @@
       <%- include('controls/header') %>
   </header>
         <div class='container'>
+            <div class="container_left"></div>
             <div class='main'>
              <%- include('controls/breadcrumbs') %>
              <!-- article list below -->
               <% for(var i in List){ %>
-              <div class="articleBlock">
-                <a class='list_item' target='_blank' href='<%= List[i].RenderData.NameHTML %>'>
-                  <span class="list_title"><%= List[i].RenderData.Title %></span>
-                  <!-- article thumbnail -->
-                  <img src='<%= Source_img_atricle %><%= List[i].RenderData.Thumb %>'>
-                </a>
-                  <p><span class='list_item_date'><%= List[i].RenderData.Date %></span><br />
-                  <%= List[i].RenderData.Desc %></p>  
-              </div>  
+              <a class="articleBlock" style="background-image: url('<%= Source_img_atricle %><%= List[i].RenderData.Cover %>');" target='_blank' href='<%= List[i].RenderData.NameHTML %>'>
+                  <div class='articleBlock_cover'>
+                      <p class='list_space'></p>
+                      <p class="list_title"><%= List[i].RenderData.Title %></p>
+                      <p class='list_item_date'><%= List[i].RenderData.Date %></p>
+                      <p class='list_item_desc'><%= List[i].RenderData.Desc %></p>
+                  </div>
+              </a>  
                  <!-- <hr class="divider" />   -->
               <% } %> 
               <!-- end of list items -->    
@@ -33,8 +33,8 @@
                Page <%- PageFirst %><%- PagePre %><%- PageGroup %><%- PageNext %><%- PageLast %>
               </div>    
             </div>
-        </div>  
-         <div style="clear:both;"></div>
+            <div class="container_left"></div>
+        </div>
       <%- include('controls/footer') %>
   </body>
 </html>

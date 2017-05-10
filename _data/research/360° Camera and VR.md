@@ -1,4 +1,6 @@
 Title: 360° Camera and VR
+Cover: research/360°VR6.png
+Date: 2017-2-29
 ---
 
 We started to learn AR/VR technology years ago. It should be able to improve our meeting experience.

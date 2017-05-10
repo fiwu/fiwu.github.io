@@ -1,5 +1,6 @@
 Title: Speech Recognition
-Date: 2017-02-19
+Date: 2017-2-19
+Cover: research/WebGL3.png
 ---
 
 Speech recognition helps people to free up their hands. It became more and more popular after iPhone 4s has been published.
@@ -10,7 +11,7 @@ We applied speech recongnition to our sparkboard prototypes. Get more about this
 
 ## link
 
-[https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
+[sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
 
 ## usage
 

@@ -1,6 +1,7 @@
 Title: Spark P5 2016
 Desc: Spark P1 prototype.
 Date: 2016-9-20
+Cover: prototypes/Spark P5 2016_Cover.png
 ---
 
 To let the users adapt to our new Spark design more smoothly, the UXCCDS team defined 5 steps to update the Spark app's style. This is the P5 prototype. We use react.js to build this prototype and many parts of this prototypes are based on dynamic data.
@@ -19,7 +20,7 @@ You can launch this prototype through the following ways:
 
 ## Prototype Link
 
-[https://uxccds.github.io/SparkMobile/v2/page/p5.html](https://uxccds.github.io/SparkMobile/v2/page/p5.html)
+[p5.html](https://uxccds.github.io/SparkMobile/v2/page/p5.html)
 
 # Goals
 
