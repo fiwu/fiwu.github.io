@@ -8,7 +8,7 @@
 .article_body *:first-child{margin-top: 0px;}
 .article_body pre{margin-top: 20px;}
 .article_body a{color: #07C1E4;}
-.article_body p img { max-width: 30%;  margin-right: 20px; flex: 1; }
+.article_body p img { max-width: 30%;  margin-right: 20px; flex: 1; height: 150px;}
 
 .article_body h1{font-size: 20px; color: #343537; height: 30px; line-height: 30px; margin-top: 30px; font-weight: 500;}
 .article_body h2{font-size: 18px; color: #343537; height: 20px; line-height: 20px; margin-top: 20px;}
