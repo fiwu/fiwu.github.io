@@ -32,8 +32,7 @@
   .articleBlock:hover .articleBlock_cover{
       transition: top 0.2s;
       top:0px;
-      background-color: rgba(209,211,211,1);
-      transition: background-color 200ms linear;
+
   }
 
   .articleBlock:hover .articleBlock_cover .list_space{

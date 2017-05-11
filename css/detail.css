@@ -7,6 +7,7 @@
 .article_body *:first-child{margin-top: 0px;}
 .article_body pre{margin-top: 20px;}
 .article_body a{color: #07C1E4;}
+.article_body p img { max-width: 50%;  margin-right: 20px; }
 
 .article_body h1{color: black; font-size: 20px; color: #424242; height: 30px; line-height: 30px; margin-top: 30px;}
 .article_body h2{color: black; font-size: 18px; color: #616161; height: 20px; line-height: 20px; margin-top: 20px;}
@@ -19,3 +20,4 @@ table{border-collapse:collapse;}
 th,tr:nth-child(even){background-color: #f8f8f8;}
 tr:nth-child(odd){background-color: #fff;}
 td,th{border:1px solid #ccc; padding: 0 14px;}
+
