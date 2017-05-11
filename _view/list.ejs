@@ -12,7 +12,7 @@
              <%- include('controls/breadcrumbs') %>
              <!-- article list below -->
               <% for(var i in List){ %>
-              <a class="articleBlock" style="background-image: url('<%= Source_img_atricle %><%= List[i].RenderData.Cover %>');" target='_blank' href='<%= List[i].RenderData.NameHTML %>'>
+              <a class="articleBlock" style="background-image: url('<%= Source_img_atricle %><%= List[i].RenderData.Cover %>');" target='_self' href='<%= List[i].RenderData.NameHTML %>'>
                   <div class='articleBlock_cover'>
                       <p class='list_space'></p>
                       <p class="list_title"><%= List[i].RenderData.Title %></p>
