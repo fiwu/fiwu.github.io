@@ -1,17 +1,18 @@
 .article{position: relative;}
 .article_header{ height: 100px; line-height: 100px; width: 100%;}
-.article_header h1{font-weight:normal; font-size:36px; text-align: center; color: #212121; width: 100%;height: 100px; line-height: 100px;}
+.article_header h1{font-weight:300; font-size:36px; text-align: left; color: #212121; width: 100%;height: 100px; line-height: 100px;}
 
 .article_body,.article_footer{padding: 0 100px 0 150px;}
+.article_body {padding: 0;}
 .article_body p{color: #757575; margin-top: 14px; line-height: 21px; }
 .article_body *:first-child{margin-top: 0px;}
 .article_body pre{margin-top: 20px;}
 .article_body a{color: #07C1E4;}
 .article_body p img { max-width: 50%;  margin-right: 20px; }
 
-.article_body h1{color: black; font-size: 20px; color: #424242; height: 30px; line-height: 30px; margin-top: 30px;}
-.article_body h2{color: black; font-size: 18px; color: #616161; height: 20px; line-height: 20px; margin-top: 20px;}
-.article_body h3{color: black; font-size: 16px; color: #9E9E9E; height: 20px; line-height: 20px; margin-top: 20px;}
+.article_body h1{font-size: 20px; color: #343537; height: 30px; line-height: 30px; margin-top: 30px; font-weight: 500;}
+.article_body h2{font-size: 18px; color: #343537; height: 20px; line-height: 20px; margin-top: 20px;}
+.article_body h3{font-size: 16px; color: #343537; height: 20px; line-height: 20px; margin-top: 20px;}
 
 table{margin-top: 20px;}
 

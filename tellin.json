@@ -24,6 +24,16 @@
 		"View":"list.ejs",
 		"Data":"./prototypes/guide",
 		"Controller":"list"
+	},{
+		"Name":"Archived",
+		"View":"list.ejs",
+		"Data":"./prototypes/archived",
+		"Controller":"list"
+	},{
+		"Name":"Experimental",
+		"View":"list.ejs",
+		"Data":"/prototypes/experimental",
+		"Controller":"list"
 	},
 	{
 		"Name":"Prototypes",
@@ -52,10 +62,10 @@
 					"Url":"prototypes/current/index.html"
 				},
 				"Experimental":{
-					"Url":""
+					"Url":"prototypes/experimental/index.html"
 				},
 				"Archived":{
-					"Url":""
+					"Url":"prototypes/archived/index.html"
 				},
 				"Guide":{
 					"Url":"prototypes/guide/index.html"

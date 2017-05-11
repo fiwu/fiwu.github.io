@@ -4,19 +4,17 @@ Date: 2017-1-20
 Cover: prototypes/cover/Spark OBTP_Cover.png
 ---
 
-![Spark OBTP](../../../img_data/prototypes/Spark OBTP_Cover.png)
-
 ### Mobile Prototype
 
-[SparkMobileP5](https://uxccds.github.io/SparkMobile/SparkMobileP5/)
+[https://uxccds.github.io/SparkMobile/SparkMobileP5/](https://uxccds.github.io/SparkMobile/SparkMobileP5/)
 
 ### Desktop Prototype
 
-[OBTP-Prototype.html](https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html)
+[https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html](https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html)
 
 ### MX Prototype
 
-[mx.html](https://uxccds.github.io/SparkMobile/pair/page/mx.html)
+[https://uxccds.github.io/SparkMobile/pair/page/mx.html](https://uxccds.github.io/SparkMobile/pair/page/mx.html)
 
 # Instuctions for use
 
@@ -32,7 +30,7 @@ Cover: prototypes/cover/Spark OBTP_Cover.png
 
 1) Please use Chrome to view this prototype.
 
-### On MX
+### On MX800
 
 1) Please use Chrome to view this prototype.
 
