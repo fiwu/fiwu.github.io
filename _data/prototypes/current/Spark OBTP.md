@@ -1,4 +1,4 @@
-Title: Spark OBTP 2017
+Title: Spark OBTP
 Desc: Mobile and Desktop OBTP (One Button to Push) prototype.
 Date: 2017-1-20
 Cover: prototypes/cover/Spark OBTP_Cover.png
@@ -24,29 +24,29 @@ Cover: prototypes/cover/Spark OBTP_Cover.png
 
 ### On Mobile
 
-1) Please use Chrome (mobile mode) or IPhone (webapp mode) to view the prototype.
+1. For the most optimal experience, use Chrome (mobile mode) or IPhone (webapp mode) to view this prototype.
 
-2) Try clear browser cache first if you see any issues.
+2. Select a scenario and continue.
 
-3) Choose a version to continue.
+3. If you encounter any issues, clear the  browser cache and reload page.
 
 ### On Desktop
 
-1) Please use Chrome to view this prototype.
+1. Please use Chrome browser to view this prototype.
 
 ### On MX800
+*Disclaimer: This is simulating an experience on the Sparkboard by using a secondary desktop (e.g. Laptop)*
 
-1) Please use Chrome to view this prototype.
 
-2) The MX logic for hot key
+1. From the laptop, run the prototype in Chrome browser and pair/screen shared to a Spark Board
 
-* '0' - go to step 0
+2. Use the following hot keys to navigate through the steps:
 
-* '1' - go to step 1 and update the mobile/desktop prototype
+* '1' - Trigger the greeting and update the mobile/desktop prototype
 
-* 'd' - change the scenario to desktop mode
+* 'd' - Switch to desktop user (Brandon)
 
-* 'm' - change the scenario to mobile mode
+* 'm' - Switch to mobile user (Catherine)
 
 3) You need to add a parameter after the url for both MX prototype and mobile/desktop prototype.
 

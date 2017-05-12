@@ -1,5 +1,5 @@
-Title: Message List Features
-Desc: Desktop prototype for the message list features
+Title: Spark Message List
+Desc: Desktop prototype for Spark message list
 Date: 2017-5-11
 Cover: prototypes/cover/Spark Message List.png
 ---
@@ -9,21 +9,21 @@ Cover: prototypes/cover/Spark Message List.png
 [https://uxccds.github.io/Spark-Hype-MVO/message-list.html](https://uxccds.github.io/Spark-Hype-MVO/message-list.html)
 
 
-# Instuctions 
+# Instructions 
 ![Desktop](../../../img_data/prototypes/Desktop-2x.png)
 
-1) Please use Chrome to view the prototype.
+1) Use Chrome browser to view the prototype for the best results.
 
-2) Select either the Regular View or the condensed view to continue.
+2) Select "Regular" or "Condensed" view to continue.
 
-3) Try clear browser cache first if you encounter any issues.
+3) If you encounter any issues, clear the  browser cache and reload page
 
-### Goals	
-This prototype is to test the following features in the regular view and the condensed view:
+# Goals	
+The purpose of the prototype is displaying regular and condensed views of the Spark message list. The following features are:
 
-1) Pin to top - Right click on conversations to see this function. All pinned messages show on top of the list
+1) **Pin to top** - Right click on people/spaces conversations to see this function. All pinned messages will show at the top of the list
 
-2) Tag filters - these filters only shows when there are relevant conversation in the users' spaces. There are three filters available: Unread, @mention, and draft
+2) **Tag filters** - These filters only show when relevant conversation status (e.g. unread, @mention, or draft) are available. 
 
-3) Notification off mode - only available in spaces
+3) **Notification settings** - @mentions or All messages
 

@@ -15,17 +15,17 @@ Cover: prototypes/cover/Spark Space Privacy_Cover.png
 
 ### On Mobile
 
-1) Please use Chrome (mobile mode) or IPhone (webapp mode) to view the prototype.
+1) For the most optimal experience, use Chrome (mobile mode) or IPhone (webapp mode) to view this prototype.
 
-2) Try clear browser cache first if you see any issues.
+2) Select a scenario and continue.
 
-3) Choose a version to continue.
+3) If you encounter any issues, clear the  browser cache and reload page.
+
+
 
 ### Goals	
-This prototype is to compare the two options of when to hide the "external participant" and "privacy" labels.
+This prototype demonstrates when the "external participants" and "privacy" icons are hidden.
 
-1) In scenario A, the external participant and privacy icons hide only as the input text gets longer and closer to them.
+1) In scenario A, the "external participants" and "privacy icons" are hidden only when text is near the icons.
 
-2) In scenario B, the external participant and privacy icons hide themselves right after the user starts to type
-
-
+2) In scenario B, the "external participants" and "privacy icons" are hidden immediately after the users start typing.

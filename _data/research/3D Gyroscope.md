@@ -1,6 +1,7 @@
 Title: 3D Gyroscope
 Cover: research/Firebase1.png
 Date: 2017-1-19
+Author: Arthus Huang
 ---
 
 Most of the model mobile has a 3D [Gyroscope](https://en.wikipedia.org/wiki/Gyroscope) in it. With the Gyroscope, we can trace the movement of the device to some extent.

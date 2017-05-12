@@ -4,7 +4,7 @@
 
 .article_body,.article_footer{padding: 0 100px 0 150px;}
 .article_body {padding: 0;}
-.article_body p{color: #757575; margin-top: 14px; line-height: 21px; word-wrap:break-word; }
+.article_body p{color: #292929; margin-top: 14px; line-height: 21px; word-wrap:break-word; }
 .article_body a{color: #07C1E4;display: inline;word-wrap:break-word; max-width: 90%;  }
 .article_body *:first-child{margin-top: 0px;}
 .article_body pre{margin-top: 20px;}

@@ -24,22 +24,23 @@ Cover: prototypes/cover/Spark Pairing_Cover.png
 
 ### On Mobile
 
-1. Please use Chrome (mobile mode) or IPhone (webapp mode) to view the prototype.
+1. For the most optimal experience, use Chrome (mobile mode) or IPhone (webapp mode) to view this prototype.
 
-2. If you see any issues, try clearing your browser cache first.
+2. Select a scenario and continue.
 
-3. Choose a version to continue.
-
+3. If you encounter any issues, clear the  browser cache and reload page.
+ 
 ### On Desktop
 
-1. Please use Chrome to view this prototype.
+1. Please use Chrome browser to view this prototype.
 
-### On MX800
+### On Spark Board
+*Disclaimer: This is simulating an experience on the Sparkboard by using a secondary desktop (e.g. Laptop)*
 
-1. Please use Chrome to view this prototype.
+1. From the laptop, run the prototype in Chrome browser and pair/screen shared to a Spark Board
 
-2. You can use the following hot keys to go to the screens:
+2. You can use the following hot keys to get to the screens:
 	* key space -> black screen
 	* key 1 -> the 'hello' screen.
-	* key 2 -> the screen with activity balls
+	* key 2 -> the screen with activity menu
 
