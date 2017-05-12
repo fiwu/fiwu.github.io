@@ -14,7 +14,7 @@
 .article_body h2{font-size: 18px; color: #343537; height: 20px; line-height: 20px; margin-top: 40px;}
 .article_body h3{font-size: 16px; color: #343537; height: 20px; line-height: 20px; margin-top: 20px;}
 .article_body h4{font-size: 16px; color: #343537; height: 20px; line-height: 20px; margin-top: 20px; margin-bottom: -10px;}
-.article_body ol ul li{text-indent:10px;list-style: circle;}
+.article_body ol ul li{text-indent:15px;list-style: circle; list-style-position: inside;}
 
 table{margin-top: 20px;}
 table,td,th,tr{height: 40px; line-height: 40px; color: #333; text-align: left;}
