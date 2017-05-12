@@ -1,7 +1,7 @@
-Title: Spark External Participant Space Privacy
+Title: Spark Space Privacy
 Desc: Mobile prototype for space privacy in chatting involved with expernal participants.
 Date: 2017-5-11
-Cover: prototypes/cover/Spark OBTP_Cover.png
+Cover: prototypes/cover/Spark Space_Privacy_Cover.png
 ---
 
 ### Mobile Prototype
@@ -17,4 +17,12 @@ Cover: prototypes/cover/Spark OBTP_Cover.png
 2) Try clear browser cache first if you see any issues.
 
 3) Choose a version to continue.
+
+### Goals	
+This prototype is to compare the two options of when to hide the "external participant" and "privacy" labels.
+
+1) In scenario A, the external participant and privacy icons hide only as the input text gets longer and closer to them.
+
+2) In scenario B, the external participant and privacy icons hide themselves right after the user starts to type
+
 
