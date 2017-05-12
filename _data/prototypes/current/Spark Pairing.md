@@ -16,11 +16,10 @@ Cover: prototypes/cover/Spark Pairing_Cover.png
 [https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
 
 # Instuctions for use
-<section class="groupimg">
+
 ![mobile](../../../img_data/prototypes/Mobile-2x.png)
 ![Desktop](../../../img_data/prototypes/Desktop-2x.png)
 ![MX800](../../../img_data/prototypes/MX800-2x.png)
-</section>
 
 ### On Mobile
 
