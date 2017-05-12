@@ -15,22 +15,22 @@
 		"Data":"./research",
 		"Controller":"list"
 	},{
-		"Name":"Current",
+		"Name":"Prototypes",
 		"View":"list.ejs",
 		"Data":"./prototypes/current",
 		"Controller":"list"
 	},{
-		"Name":"Guide",
+		"Name":"Prototypes",
 		"View":"list.ejs",
 		"Data":"./prototypes/guide",
 		"Controller":"list"
 	},{
-		"Name":"Archived",
+		"Name":"Prototypes",
 		"View":"list.ejs",
 		"Data":"./prototypes/archived",
 		"Controller":"list"
 	},{
-		"Name":"Experimental",
+		"Name":"Prototypes",
 		"View":"list.ejs",
 		"Data":"/prototypes/experimental",
 		"Controller":"list"

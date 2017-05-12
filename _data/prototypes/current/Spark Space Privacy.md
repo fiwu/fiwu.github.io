@@ -1,7 +1,7 @@
 Title: Spark Space Privacy
 Desc: Mobile prototype for space privacy in chatting involved with expernal participants.
 Date: 2017-5-11
-Cover: prototypes/cover/Spark Space_Privacy_Cover.png
+Cover: prototypes/cover/Spark Space Privacy_Cover.png
 ---
 
 ### Mobile Prototype
@@ -9,7 +9,10 @@ Cover: prototypes/cover/Spark Space_Privacy_Cover.png
 [https://uxccds.github.io/SparkMobile/ExternalParticipant/SpacePrivacy.html](https://uxccds.github.io/SparkMobile/ExternalParticipant/SpacePrivacy.html)
 
 
-# Instuctions 
+# Instuctions for use
+
+![mobile](../../../img_data/prototypes/Mobile-2x.png)
+
 ### On Mobile
 
 1) Please use Chrome (mobile mode) or IPhone (webapp mode) to view the prototype.

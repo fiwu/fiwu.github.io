@@ -18,6 +18,10 @@ Cover: prototypes/cover/Spark OBTP_Cover.png
 
 # Instuctions for use
 
+![mobile](../../../img_data/prototypes/Mobile-2x.png)
+![Desktop](../../../img_data/prototypes/Desktop-2x.png)
+![MX800](../../../img_data/prototypes/MX800-2x.png)
+
 ### On Mobile
 
 1) Please use Chrome (mobile mode) or IPhone (webapp mode) to view the prototype.
