@@ -4,15 +4,15 @@ Date: 2017-1-20
 Cover: prototypes/cover/Spark OBTP_Cover.png
 ---
 
-### Mobile Prototype
+#### Mobile Prototype
 
 [https://uxccds.github.io/SparkMobile/SparkMobileP5/](https://uxccds.github.io/SparkMobile/SparkMobileP5/)
 
-### Desktop Prototype
+#### Desktop Prototype
 
 [https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html](https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html)
 
-### MX Prototype
+#### MX Prototype
 
 [https://uxccds.github.io/SparkMobile/pair/page/mx.html](https://uxccds.github.io/SparkMobile/pair/page/mx.html)
 

@@ -4,7 +4,7 @@ Date: 2017-5-11
 Cover: prototypes/cover/Spark Space Privacy_Cover.png
 ---
 
-### Mobile Prototype
+#### Mobile Prototype
 
 [https://uxccds.github.io/SparkMobile/ExternalParticipant/SpacePrivacy.html](https://uxccds.github.io/SparkMobile/ExternalParticipant/SpacePrivacy.html)
 

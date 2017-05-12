@@ -4,11 +4,11 @@ Date: 2016-6-8
 Cover: prototypes/cover/VR View In Meeting.png
 ---
 
-### VR for equal view
+#### VR for equal view
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/thin/views/equalVR.php](https://uxprototype.cisco.com/projects/Reskin/wap/thin/views/equalVR.php)
 
-### VR for big video
+#### VR for big video
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/thin/views/equalVRroom.php](https://uxprototype.cisco.com/projects/Reskin/wap/thin/views/equalVRroom.php)
 

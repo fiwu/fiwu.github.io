@@ -4,11 +4,11 @@ Date: 2017-5-8
 Cover: prototypes/cover/Sound Wave.png
 ---
 
-### Ways to show sound
+#### Ways to show sound
 
 [https://uxccds.github.io/SparkMobile/webrtc/page/wave.html](https://uxccds.github.io/SparkMobile/webrtc/page/wave.html)
 
-### Sound wave in Spark
+#### Sound wave in Spark
 
 [https://uxccds.github.io/SparkMobile/webrtc/page/wave2.html](https://uxccds.github.io/SparkMobile/webrtc/page/wave2.html)
 

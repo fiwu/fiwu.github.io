@@ -3,17 +3,18 @@ Desc: Mobile and Desktop Spark Prototype featuring the pairing functions
 Cover: prototypes/cover/Spark Pairing_Cover.png
 ---
 
-### Mobile Prototype
+#### Mobile Prototype
 
 [https://uxccds.github.io/SparkMobile/SparkMobilePairing/sparkMobilePair.html](https://uxccds.github.io/SparkMobile/SparkMobilePairing/sparkMobilePair.html)
 
-### Desktop Prototype
+#### Desktop Prototype
 
 [https://uxccds.github.io/Spark-Hype-MVO/devicepairing-desktop.html](https://uxccds.github.io/Spark-Hype-MVO/devicepairing-desktop.html)
 
-### MX800 Prototype
+#### MX800 Prototype
 
 [https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
+
 
 # Instuctions for use
 

@@ -4,7 +4,7 @@ Date: 2017-5-11
 Cover: prototypes/cover/Spark Message List.png
 ---
 
-### Desktop Prototype
+#### Desktop Prototype
 
 [https://uxccds.github.io/Spark-Hype-MVO/message-list.html](https://uxccds.github.io/Spark-Hype-MVO/message-list.html)
 

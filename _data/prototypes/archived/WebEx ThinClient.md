@@ -4,7 +4,7 @@ Date: 2016-3-1
 Cover: prototypes/cover/WebEx ThinClient.png
 ---
 
-### With FTE
+#### With FTE
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/ThinClient/pages/cmr18.php](https://uxprototype.cisco.com/projects/Reskin/wap/ThinClient/pages/cmr18.php)
 
