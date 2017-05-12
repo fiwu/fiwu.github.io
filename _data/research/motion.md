@@ -2,6 +2,7 @@ Title: Motion
 Desc: This prototype is try to explore the motion design.
 Date: 2016-12-1
 Cover: research/Motion1.png
+Author: Arthus Huang
 ---
 
 ### Web Page

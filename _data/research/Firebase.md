@@ -1,6 +1,7 @@
 Title: Firebase
 Date: 2016-9-1
 Cover: research/Firebase1.png
+Author: Arthus Huang
 ---
 
 We've done some researchs on how to build connection between devices. Web database is one of the choice. In our current projects, we choose [Firebase](https://firebase.google.com). Firebase saves us a lot of time on coding server end code. So we focus more on the front end coding.

@@ -18,6 +18,6 @@ Cover: prototypes/cover/WebEx & Spark Help.png
 
 3) Try scroll down or up.
 
-### Goals	
+# Goals	
 This prototype is try to explore scrolling experience of the page.
 

@@ -2,6 +2,7 @@ Title: Face Detection.
 Desc: This prototype is try to apply the technology of face detection to our product.
 Date: 2016-11-1
 Cover: research/Face Detection1.png
+Author: Arthus Huang
 ---
 
 ### Web Page

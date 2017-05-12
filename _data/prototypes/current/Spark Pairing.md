@@ -11,16 +11,16 @@ Cover: prototypes/cover/Spark Pairing_Cover.png
 
 [https://uxccds.github.io/Spark-Hype-MVO/devicepairing-desktop.html](https://uxccds.github.io/Spark-Hype-MVO/devicepairing-desktop.html)
 
-#### MX800 Prototype
+#### SparkBoard Prototype
 
 [https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
 
 
-# Instuctions for use
+# Instuctions
 
 ![mobile](../../../img_data/prototypes/Mobile-2x.png)
 ![Desktop](../../../img_data/prototypes/Desktop-2x.png)
-![MX800](../../../img_data/prototypes/MX800-2x.png)
+![SparkBoard](../../../img_data/prototypes/SparkBoard-2x.png)
 
 ### On Mobile
 

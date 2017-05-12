@@ -3,10 +3,14 @@ Desc: Spark P1 prototype.
 Date: 2016-9-1
 Cover: prototypes/cover/Spark P1 2016_Cover.png
 ---
-
+#Summary
 To let users to adapt to our new Sparl desogm more smoothly, UXCCDS team defined 5 steps to update spark app's style. This is the P1 prototype.
 
-## Screen shot
+#### Prototype Link
+
+[p1.html](https://uxccds.github.io/SparkMobile/v2/page/p1.html)
+
+#### Screen shot
 
 ![Spark P1 2016](../../../img_data/prototypes/Spark P1 2016.png)
 
@@ -18,9 +22,14 @@ You can launch this prototype through the following ways:
 
 2) Install the prototype on your iPhone as a web app. Click [here](../guide/install-web-app.html) to learn more about this method.
 
-## Prototype Link
+# Instructions
 
-[p1.html](https://uxccds.github.io/SparkMobile/v2/page/p1.html)
+1) Click the 'Branding team' 's line to enter its room.
+
+2) Click the activity board's icon on the top-right corner to open it.
+
+3) Click on each ball on the activity board to experience the different features.
+
 
 # Goals
 
@@ -32,10 +41,3 @@ This prototype aims to displays the following designs:
 
 3) Add activity board to spark.
 
-# How-tos
-
-1) Click the 'Branding team' 's line to enter its room.
-
-2) Click the activity board's icon on the top-right corner to open it.
-
-3) Click on each ball on the activity board to experience the different features.

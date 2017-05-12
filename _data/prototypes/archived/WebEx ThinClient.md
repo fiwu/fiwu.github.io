@@ -8,7 +8,7 @@ Cover: prototypes/cover/WebEx ThinClient.png
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/ThinClient/pages/cmr18.php](https://uxprototype.cisco.com/projects/Reskin/wap/ThinClient/pages/cmr18.php)
 
-### With Waiting Page
+#### With Waiting Page
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/ThinClient/pages/one.php](https://uxprototype.cisco.com/projects/Reskin/wap/ThinClient/pages/one.php)
 
@@ -27,6 +27,6 @@ Cover: prototypes/cover/WebEx ThinClient.png
 
 	2. The other buttons are used in chat panel.
 
-### Goals	
+# Goals	
 This prototype is try to explore the full experience for WebEx ThinClient.
 

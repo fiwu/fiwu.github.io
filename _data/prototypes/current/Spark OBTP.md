@@ -12,7 +12,7 @@ Cover: prototypes/cover/Spark OBTP_Cover.png
 
 [https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html](https://uxccds.github.io/Spark-Hype-MVO/OBTP-Prototype.html)
 
-#### MX Prototype
+#### MX800 Prototype
 
 [https://uxccds.github.io/SparkMobile/pair/page/mx.html](https://uxccds.github.io/SparkMobile/pair/page/mx.html)
 
@@ -48,7 +48,7 @@ Cover: prototypes/cover/Spark OBTP_Cover.png
 
 * 'm' - Switch to mobile user (Catherine)
 
-3) You need to add a parameter after the url for both MX prototype and mobile/desktop prototype.
+3. Add a parameter after the url for both MX prototype and mobile/desktop prototype.
 
 e.g.: 
 
@@ -59,9 +59,9 @@ The link for MX
 [mx.html?room=public](https://uxccds.github.io/SparkMobile/pair/page/mx.html?room=public)
 
 In this example, the parameter added is 'room'.
-The parameter's value could be 'CCDS', 'UE', 'UT', 'private' or 'public'.
+The parameter's value can be 'CCDS', 'UE', 'UT', 'private' or 'public'.
 
-4) Only when the mx prototype and mobile/desktop prototype use the same name will they be paired.
+4. Only when the mx prototype and mobile/desktop prototype use the same name will they be paired.
 
 
 

@@ -1,6 +1,7 @@
 Title: WebGL
 Date: 2017-4-19
 Cover: research/WebGL2.png
+Author: Arthus Huang
 ---
 
 WebGL let browsers have the ablility to render 3D things. 

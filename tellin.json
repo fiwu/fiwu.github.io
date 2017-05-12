@@ -22,7 +22,7 @@
 	},{
 		"Name":"Prototypes",
 		"View":"list.ejs",
-		"Data":"./prototypes/guide",
+		"Data":"./prototypes/faq",
 		"Controller":"list"
 	},{
 		"Name":"Prototypes",
@@ -67,8 +67,8 @@
 				"Archived":{
 					"Url":"prototypes/archived/index.html"
 				},
-				"Guide":{
-					"Url":"prototypes/guide/index.html"
+				"FAQ":{
+					"Url":"prototypes/FAQ/index.html"
 				}
 			}
 		},

@@ -24,5 +24,5 @@ Cover: prototypes/cover/VR View In Meeting.png
 
 4) Click the play button on video and try to change the view with your mouse.
 
-### Goals	
+# Goals	
 This prototype is to explore the VR View in WebEx thin client

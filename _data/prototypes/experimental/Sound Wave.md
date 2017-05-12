@@ -22,6 +22,6 @@ Cover: prototypes/cover/Sound Wave.png
 
 3) Try say something and watch the wave's change.
 
-### Goals	
+# Goals	
 This prototype is to explore the sound field and make avatars more active.
 

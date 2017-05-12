@@ -8,7 +8,7 @@ Cover: prototypes/cover/WebEx Personal Room Page.png
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/PR/views/home.php](https://uxprototype.cisco.com/projects/Reskin/wap/PR/views/home.php)
 
-### Attendee View
+#### Attendee View
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/PR/views/attendee.php](https://uxprototype.cisco.com/projects/Reskin/wap/PR/views/attendee.php)
 
@@ -22,6 +22,6 @@ Cover: prototypes/cover/WebEx Personal Room Page.png
 3) Try to client any button in the prototype.
 
 
-### Goals	
+# Goals	
 This prototype is try to explore the experience when people are waiting for the meeting.
 

@@ -2,18 +2,19 @@ Title: Speech Recognition
 Date: 2017-2-19
 Cover: research/WebGL3.png
 ---
+#Summary
 
 Speech recognition helps people to free up their hands. It became more and more popular after iPhone 4s has been published.
 
-# Prototype
+#### Prototype
 
-We applied speech recongnition to our sparkboard prototypes. Get more about this prototype works in normal mode [here](../prototypes/spark-pairing.html).
+We applied speech recongnition to our sparkboard prototypes. Learn more about how this prototype works in normal mode [here](../prototypes/spark-pairing.html).
 
-## link
+#### link
 
 [sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
 
-## usage
+# Instructions
 
 1) Open the prototype in Chrome. (Make sure you can connect to Google's server.)
 

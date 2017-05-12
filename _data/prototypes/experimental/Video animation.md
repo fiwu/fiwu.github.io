@@ -4,7 +4,7 @@ Date: 2016-1-8
 Cover: prototypes/cover/Video animation.png
 ---
 
-#### Web Page
+#### Web Pages
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/thin/views/queue.php](https://uxprototype.cisco.com/projects/Reskin/wap/thin/views/queue.php)
 
@@ -23,5 +23,5 @@ Cover: prototypes/cover/Video animation.png
 
 3) Use the hidden '+' or '-' button on the top left corner to add/remove people. 
 
-### Goals	
+# Goals	
 This prototype is to explore the animation when new people enter the people.

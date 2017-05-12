@@ -23,7 +23,7 @@ Cover: prototypes/cover/Spark Space Privacy_Cover.png
 
 
 
-### Goals	
+#Goals	
 This prototype demonstrates when the "external participants" and "privacy" icons are hidden.
 
 1) In scenario A, the "external participants" and "privacy icons" are hidden only when text is near the icons.

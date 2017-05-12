@@ -4,7 +4,7 @@ Date: 2014-12-1
 Cover: prototypes/cover/Welcome Page Animation on IOS.png
 ---
 
-#### Web Page
+#### Web Pages
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/ios7/pages/welcome.php](https://uxprototype.cisco.com/projects/Reskin/wap/ios7/pages/welcome.php)
 
@@ -27,6 +27,6 @@ b. Install the prototype on your iPhone as a web app. Click [here](../guide/inst
 
 3) Try to swipe on the screen.
 
-### Goals	
+# Goals	
 This prototype is try to explore the welcome page's animation on IOS.
 

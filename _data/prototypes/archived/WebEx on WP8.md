@@ -20,6 +20,6 @@ a. Open the prototype in Chrome's mobile simulator. Click [here](../guide/chrome
 
 b. Install the prototype on your iPhone or Window Phone as a web app. Click [here](../guide/install-web-app.html) to learn more about this method.
 
-### Goals	
+# Goals	
 This prototype is the first prototype for Webex on WP8.
 

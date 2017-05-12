@@ -4,7 +4,7 @@ Date: 2014-11-1
 Cover: prototypes/cover/Personal Meeting Room.png
 ---
 
-#### Web Page
+#### Prototype Link
 
 [https://uxprototype.cisco.com/projects/PMR/](https://uxprototype.cisco.com/projects/PMR/)
 
@@ -16,6 +16,6 @@ Cover: prototypes/cover/Personal Meeting Room.png
 
 2) Please use Chrome to view the prototype.
 
-### Goals	
+# Goals	
 This prototype is the first prototype to import Personal Meeting Room to WebEx.
 

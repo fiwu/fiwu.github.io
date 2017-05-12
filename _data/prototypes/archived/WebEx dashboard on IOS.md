@@ -4,7 +4,7 @@ Date: 2015-12-1
 Cover: prototypes/cover/WebEx dashboard on IOS.png
 ---
 
-#### Web Page
+#### Web Pages
 
 [https://uxprototype.cisco.com/projects/Reskin/wap/ios8/pages/dashboard.php](https://uxprototype.cisco.com/projects/Reskin/wap/ios8/pages/dashboard.php)
 
@@ -23,6 +23,6 @@ a. Open the prototype in Chrome's mobile simulator. Click [here](../guide/chrome
 
 b. Install the prototype on your iPhone as a web app. Click [here](../guide/install-web-app.html) to learn more about this method.
 
-### Goals	
+# Goals	
 This prototype is try to explore the dash for WebEx.
 
