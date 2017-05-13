@@ -99,11 +99,13 @@ ul,li{list-style: none; margin: 0px;}
 }
 @media only screen and ( max-width: 480px) {
   .intro { margin-bottom: 90px;}
+  .header{width:90%; margin: 0 auto;}
+  .header li a {text-align: center;}
   .container_left{ width: 10px; -webkit-flex:none; flex:none;}
   .copyright{margin: 40px 0; font-size: 12px;}
 
   .wrapper {padding: 0 7px;}
-  .breadcrumbs{ padding: 0; margin: 0px;}
+  .breadcrumbs{ padding: 10px; margin: 0px; margin-top:20px;}
   .breadcrumbs li{ display: inline; font-size: 12px; margin-right: 3px; }
 
   .NavContent{ height: 40px;}

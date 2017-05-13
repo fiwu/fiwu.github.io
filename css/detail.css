@@ -11,7 +11,7 @@
 .article_body pre{margin-top: 20px;}
 .article_body p img { max-width: 80%;  margin-right: 20px; flex: 1;}
 .article_body p img[alt="mobile"],.article_body p img[alt="Desktop"],.article_body p img[alt="MX800"],.article_body p img[alt="SparkBoard"]{max-width: 28%; height: 150px;}
-.article_body h1{font-size: 24px; color: #343537; height: 30px; line-height: 30px; margin-top: 30px; font-weight: 400;}
+.article_body h1{font-size: 24px; color: #343537; height: 30px; line-height: 30px; margin-top: 40px; margin-bottom: 15px; font-weight: 400;}
 .article_body h2{font-size: 18px; color: #343537; height: 20px; line-height: 20px; margin-top: 40px;}
 .article_body h3{font-size: 16px; color: #343537; height: 20px; line-height: 20px; margin-top: 20px;}
 .article_body h4{font-size: 16px; color: #343537; height: 20px; line-height: 20px; margin-top: 20px;} /*margin-bottom: -10px;*/
