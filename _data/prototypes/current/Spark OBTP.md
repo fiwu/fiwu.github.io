@@ -16,7 +16,7 @@ Cover: prototypes/cover/Spark OBTP_Cover.png
 
 [https://uxccds.github.io/SparkMobile/pair/page/mx.html](https://uxccds.github.io/SparkMobile/pair/page/mx.html)
 
-# Instuctions for use
+# Instructions
 
 ![mobile](../../../img_data/prototypes/Mobile-2x.png)
 ![Desktop](../../../img_data/prototypes/Desktop-2x.png)

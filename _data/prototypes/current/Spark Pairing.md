@@ -16,7 +16,7 @@ Cover: prototypes/cover/Spark Pairing_Cover.png
 [https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html](https://uxccds.github.io/SparkMobile/pair/page/sparkboardpair.html)
 
 
-# Instuctions
+# Instructions
 
 ![mobile](../../../img_data/prototypes/Mobile-2x.png)
 ![Desktop](../../../img_data/prototypes/Desktop-2x.png)

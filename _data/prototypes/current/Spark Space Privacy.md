@@ -9,7 +9,7 @@ Cover: prototypes/cover/Spark Space Privacy_Cover.png
 [https://uxccds.github.io/SparkMobile/ExternalParticipant/SpacePrivacy.html](https://uxccds.github.io/SparkMobile/ExternalParticipant/SpacePrivacy.html)
 
 
-# Instuctions
+# Instructions
 
 ![mobile](../../../img_data/prototypes/Mobile-2x.png)
 
