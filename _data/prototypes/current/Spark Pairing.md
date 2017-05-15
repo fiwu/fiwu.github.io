@@ -1,6 +1,7 @@
 Title: Spark Device Pairing
 Desc: Mobile and Desktop Spark Prototype featuring the pairing functions
 Cover: prototypes/cover/Spark Pairing_Cover.png
+
 ---
 
 #### Mobile Prototype

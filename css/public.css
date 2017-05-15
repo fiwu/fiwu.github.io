@@ -71,7 +71,7 @@ ul,li{list-style: none; margin: 0px;}
 /* ---- media query below ---*/
 
 /* change side menu and content to 100% screen width when screen size is smaller than 768px*/
-@media only screen and ( max-width: 1023px) {
+@media only screen and ( max-width: 1024px) {
   .wrapper{ width: 98%; margin:2% auto; padding:0px;}
 }
 @media only screen and ( max-width: 768px) {
@@ -95,7 +95,7 @@ ul,li{list-style: none; margin: 0px;}
   .NavContent .logo{ left: 5px; height: 60px; }
   .NavContent .logo img{ display: none;}
 
-  .NavContent .Nav{ margin-left: 0%; width:100%; height: 60px;}
+  .NavContent .Nav{ margin-left: 0%; width:100%; height: 60px; text-align: center;}
   .NavContent .Nav>li{ margin-right: 5px; margin-left: 5px;height: 60px; line-height: 60px; }
   .NavContent .Nav>li>a{ height: 60px; line-height: 60px; padding: 0 10px;  font-size: 16px;}
   .NavContent .Nav>li:hover>a,.NavContent .Nav>li .current{ border-bottom: 1px solid #049fd9; height: 59px;}
@@ -104,16 +104,15 @@ ul,li{list-style: none; margin: 0px;}
 @media only screen and ( max-width: 480px) {
   .intro { margin-bottom: 90px;}
   .header{width:90%; margin: 0 auto;}
-  .header li a {text-align: center;}
   .container_left{ width: 10px; -webkit-flex:none; flex:none;}
   .copyright{margin: 40px 0; font-size: 12px;}
 
-  .wrapper {padding: 0 7px;}
-  .breadcrumbs{ padding: 10px; margin: 0px; margin-top:20px;}
+  .wrapper {padding: 0 15px;}
+  .breadcrumbs{ padding: 0 20px; margin: 0px; margin-top:30px;}
   .breadcrumbs li{ display: inline; font-size: 12px; margin-right: 3px; }
 
   .NavContent{ height: 40px;}
-  .NavContent .Nav{ margin-left: 0; width:100%; height: 40px;}
+  .NavContent .Nav{ margin-left: 0; width:100%; height: 40px; text-align: center;}
   .NavContent .Nav>li{ margin-right: 2px; margin-left: 3px; height: 40px; line-height: 40px; }
   .NavContent .Nav>li>a{ height: 40px; line-height: 40px; padding: 0 7px;  font-size: 14px;}
   .NavContent .Nav>li:hover>a,.NavContent .Nav>li .current{ border-bottom: 1px solid #049fd9; height: 39px;}
