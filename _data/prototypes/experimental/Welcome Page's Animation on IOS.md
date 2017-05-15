@@ -2,6 +2,7 @@ Title: Welcome Page's Animation on IOS
 Desc: This prototype is try to explore the welcome page's animation on IOS.
 Date: 2014-12-1
 Cover: prototypes/cover/Welcome Page Animation on IOS.png
+Author: Arthus Huang
 ---
 
 #### Web Pages

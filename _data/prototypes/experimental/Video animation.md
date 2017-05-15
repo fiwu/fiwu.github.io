@@ -2,6 +2,7 @@ Title: Video animation
 Desc: This prototype is to explore the animation when new people enter the people.
 Date: 2016-1-8
 Cover: prototypes/cover/Video animation.png
+Author: Arthus Huang
 ---
 
 #### Web Pages

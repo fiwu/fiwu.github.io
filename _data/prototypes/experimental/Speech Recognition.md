@@ -1,6 +1,7 @@
 Title: Speech Recognition
 Date: 2017-2-19
 Cover: research/WebGL3.png
+Author: Arthus Huang
 ---
 #Summary
 

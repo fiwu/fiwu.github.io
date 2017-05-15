@@ -10,6 +10,7 @@ ul,li{list-style: none; margin: 0px;}
 
 .container { width: 100%;  display:flex;  flex-flow: row;  display: -webkit-flex; -webkit-flex-flow: row;margin:0 auto;  position: relative;}
 .wrapper{ width: 1044px; margin:10px auto; padding:0 20px;}
+
 .container_left{ width: 40px; -webkit-flex:none; flex:none;}
 .main{  -webkit-flex:1; flex:1; margin-top: 0px; }
 
@@ -70,6 +71,9 @@ ul,li{list-style: none; margin: 0px;}
 /* ---- media query below ---*/
 
 /* change side menu and content to 100% screen width when screen size is smaller than 768px*/
+@media only screen and ( max-width: 1023px) {
+  .wrapper{ width: 98%; margin:2% auto; padding:0px;}
+}
 @media only screen and ( max-width: 768px) {
   body{ overflow-x: hidden;}
   p{overflow-wrap: break-word; word-wrap: break-word;}

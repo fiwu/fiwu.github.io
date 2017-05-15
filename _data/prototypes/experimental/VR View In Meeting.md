@@ -2,6 +2,7 @@ Title: VR View In Meeting
 Desc: This prototype is to explore the VR View in WebEx thin client
 Date: 2016-6-8
 Cover: prototypes/cover/VR View In Meeting.png
+Author: Arthus Huang
 ---
 
 #### VR for equal view

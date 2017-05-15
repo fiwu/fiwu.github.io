@@ -2,6 +2,7 @@ Title: Sound Wave
 Desc: This prototype is to explore the sound field and make avatars more active.
 Date: 2017-5-8
 Cover: prototypes/cover/Sound Wave.png
+Author: Arthus Huang
 ---
 
 #### Ways to show sound

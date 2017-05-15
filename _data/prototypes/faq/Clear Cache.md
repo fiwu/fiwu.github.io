@@ -2,6 +2,7 @@ Title: Clear Cache
 IndexPage: true
 SortIndex: 1
 Cover: guide/clearCache1.png
+Author: Arthus Huang
 ---
 
 Browers usually cache datas to speed up loading web pages. This is why sometimes you can not see the latest version of the web pages. And cache sometimes will cause some bugs.

@@ -2,6 +2,7 @@ Title: Waiting Experience
 Desc: This prototype is to explore the waiting experience for WebEx Personal Meeting Room.
 Date: 2015-11-8
 Cover: prototypes/cover/Waiting Experience.png
+Author: Arthus Huang
 ---
 
 #### Web Pages

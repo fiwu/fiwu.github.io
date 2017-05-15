@@ -1,6 +1,9 @@
 <article class='article'>
 	<header class='article_header'>
 		<h1><%= Title %></h1>
+		<% if(Author != '') { %>
+			<p><%= Author %></p>
+		<% } %>
 	</header>
 	<div class='article_body'>
 		<%- Content %>		
