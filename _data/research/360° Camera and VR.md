@@ -1,5 +1,5 @@
 Title: 360° Camera and VR
-Cover: research/360°VR6.png
+Cover: research/360°VR6.PNG
 Date: 2017-2-29
 Author: Arthus Huang
 ---
