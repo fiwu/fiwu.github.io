@@ -64,10 +64,13 @@ ul,li{list-style: none; margin: 0px;}
 .block-l a:hover, .block-r a:hover, .block-a a:hover{ background-color: rgba(106,107,108,0.8); }
 .block-a { width: 100%;}
 .list_space{display: block;width: 100%; height: 15px; margin: 0px;}
-.list_title{font-size:16px; margin:0px 20px 0 20px; line-height: 20px; font-weight:500; text-align: center;}
+.list_title{font-size:16px;  line-height: 20px; font-weight:500; text-align: center;}
 .block_cover{width: 100%; height: 20%; position: absolute; left: 0px; bottom:0px; color: #fff; background-color: rgba(7,193,228,0.95);}
-.sectionBlock:hover .block_cover{transition: height 0.2s; height: 100%; transition: top 0.2s; top:0;background-color: rgba(7,193,228,0.95); }
-.sectionBlock:hover .list_space{height: 50%;}
+
+/*
+.sectionBlock:hover .block_cover{transition: height 0.2s; height: 100%; background-color: rgba(7,193,228,0.95); }
+.sectionBlock .list_space{line-height: 240px;}
+*/
 .pagination{ margin-top: 40px; text-align: center;}
 /* divider not used */
 .divider{ border-bottom: 1px dotted #ccc; border-top: 0; display: none;}
