@@ -68,7 +68,7 @@
 					"Url":"prototypes/archived/index.html"
 				},
 				"FAQ":{
-					"Url":"prototypes/FAQ/index.html"
+					"Url":"prototypes/faq/index.html"
 				}
 			}
 		},
@@ -79,7 +79,7 @@
 			"Url":"team/index.html"
 		}
 	},
-	"_page_item_num":10,
+	"_page_item_num":9,
 	"_page_btn_num":10,	
 	"_page_for_index":true,
 	"Source_css":"./css/",
