@@ -121,7 +121,8 @@
       <div class="intro"><h1>Meet the team behind our prototypes</h1>
       </div>
       <!-- map section -->
-      <div class="teamMap">
+      <div class="teamContainer">
+      <!-- map section -->
       <!-- (c) ammap.com | SVG map of World - Low -->
 <div class='svg_con'>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class='svg_map' id='svg_map' preserveAspectRatio="xMinYMin meet" viewBox="0,0,1008,650">
@@ -334,20 +335,17 @@
 		<path id="ZM" title="Zambia" class="land" d="M567.11,489.21L568.43,490.47L569.14,492.87L568.66,493.64L568.1,495.94L568.64,498.3L567.76,499.29L566.91,501.95L568.38,502.69L559.87,505.07L560.14,507.12L558.01,507.52L556.42,508.67L556.08,509.68L555.07,509.9L552.63,512.3L551.08,514.19L550.13,514.26L549.22,513.92L546.09,513.6L545.59,513.38L545.56,513.14L544.46,512.48L542.64,512.31L540.34,512.98L538.51,511.16L536.62,508.78L536.75,499.62L542.59,499.66L542.35,498.67L542.77,497.6L542.28,496.27L542.6,494.89L542.3,494.01L543.27,494.08L543.43,494.96L544.74,494.89L546.52,495.15L547.46,496.44L549.7,496.84L551.42,495.94L552.05,497.43L554.2,497.83L555.23,499.05L556.38,500.62L558.53,500.65L558.29,497.57L557.52,498.08L555.56,496.98L554.8,496.47L555.15,493.62L555.65,490.27L555.02,489.02L555.82,487.22L556.57,486.89L560.34,486.41L561.44,486.7L562.61,487.41L563.73,487.89L565.51,488.36z"/>
 		<path id="ZW" title="Zimbabwe" class="land" d="M562.71,527L561.22,526.7L560.27,527.06L558.92,526.55L557.78,526.52L555.99,525.16L553.82,524.7L553,522.8L552.99,521.75L551.79,521.43L548.62,518.18L547.73,516.47L547.17,515.95L546.09,513.6L549.22,513.92L550.13,514.26L551.08,514.19L552.63,512.3L555.07,509.9L556.08,509.68L556.42,508.67L558.01,507.52L560.14,507.12L560.32,508.2L562.66,508.14L563.96,508.75L564.56,509.47L565.9,509.68L567.35,510.62L567.36,514.31L566.81,516.35L566.69,518.55L567.14,519.43L566.83,521.17L566.4,521.44L565.66,523.59z"/>
 	</g>
-	<circle cx='862' cy='372' r='35' fill='url(#parrten_arthus)' stroke='#C5E9F7' stroke-width='4'></circle>
-	<circle cx='937' cy='372' r='35' fill='url(#parrten_azure)' stroke='#C5E9F7' stroke-width='4'></circle>
-	<circle cx='110' cy='390' r='35' fill='url(#parrten_kevin)' stroke='#C5E9F7' stroke-width='4'></circle>
-	<circle cx='75' cy='320' r='35' fill='url(#parrten_fiona)' stroke='#C5E9F7' stroke-width='4'></circle>
-	<circle cx='290' cy='375' r='35' fill='url(#parrten_damon)' stroke='#C5E9F7' stroke-width='4'></circle>
+	<a id="avatar-ah" onmouseover="document.getElementById('team-ah').style.display = 'block';" onmouseout="document.getElementById('team-ah').style.display = 'none';" href="#"><circle cx='862' cy='372' r='35' fill='url(#parrten_arthus)' stroke='#C5E9F7' stroke-width='4'></circle>
+	</a>
+	<a id="avatar-al" onmouseover="document.getElementById('team-al').style.display = 'block';" onmouseout="document.getElementById('team-al').style.display = 'none';" href="#"><circle cx='937' cy='372' r='35' fill='url(#parrten_azure)' stroke='#C5E9F7' stroke-width='4'></circle></a>
+	<a id="avatar-kc"onmouseover="document.getElementById('team-kc').style.display = 'block';" onmouseout="document.getElementById('team-kc').style.display = 'none';" href="#"><circle cx='110' cy='390' r='35' fill='url(#parrten_kevin)' stroke='#C5E9F7' stroke-width='4'></circle></a>
+	<a id="avatar-fw" onmouseover="document.getElementById('team-fw').style.display = 'block';" onmouseout="document.getElementById('team-fw').style.display = 'none';" href="#"><circle cx='75' cy='320' r='35' fill='url(#parrten_fiona)' stroke='#C5E9F7' stroke-width='4'></circle></a>
+	<a id="avatar-dd" onmouseover="document.getElementById('team-dd').style.display = 'block';" onmouseout="document.getElementById('team-dd').style.display = 'none';" href="#">
+	<circle cx='290' cy='375' r='35' fill='url(#parrten_damon)' stroke='#C5E9F7' stroke-width='4'></circle></a>
 </svg>
-</div>
- 
-      </div>
- 
-     <!-- team bio section -->
-     <div class="teamBioContainer">
+<!-- team bio section -->
      <!-- Damon -->
-     <div class="teamBio" style="background: #FF3826;">
+     <div id="team-dd" style="background: #FF3826;">
        <img src="">
        <h3 class="name">Hi, I am Damon</h3>
        <span class="role">Prototype Guru, Team Manager</span>
@@ -355,7 +353,7 @@
        <p class="detailBio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non augue sed lacus venenatis sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce felis orci, interdum id nisl vel, bibendum tristique ante. Duis semper nibh eros, sed consequat ligula maximus eu. Integer aliquet dictum sapien nec rutrum. Pellentesque eget ornare lectus, in iaculis sapien. Cras in tortor sit amet justo lacinia vestibulum. Aliquam accumsan dignissim ipsum non dictum. Donec mauris ex, dapibus a pulvinar non, semper at lectus. Mauris luctus, mauris aliquam dapibus rhoncus, felis nunc sodales felis, in faucibus nisi neque eget odio. Cras porta vehicula metus nec blandit. </p>
      </div>
      <!-- Arthus -->
-     <div class="teamBio" style="background: #008000;">
+     <div id="team-ah" style="background: #008000;">
        <img src="">
        <h3 class="name">Hi, I am Arthus</h3>
        <span class="role">Front End Developer/Mobile Prototyper</span>
@@ -363,7 +361,7 @@
        <p class="detailBio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non augue sed lacus venenatis sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce felis orci, interdum id nisl vel, bibendum tristique ante. Duis semper nibh eros, sed consequat ligula maximus eu. Integer aliquet dictum sapien nec rutrum. Pellentesque eget ornare lectus, in iaculis sapien. Cras in tortor sit amet justo lacinia vestibulum. Aliquam accumsan dignissim ipsum non dictum. Donec mauris ex, dapibus a pulvinar non, semper at lectus. Mauris luctus, mauris aliquam dapibus rhoncus, felis nunc sodales felis, in faucibus nisi neque eget odio. Cras porta vehicula metus nec blandit. </p>
      </div>
      <!-- KC -->
-     <div class="teamBio" style="background: #7F56B7;">
+     <div id="team-kc" style="background: #7F56B7;">
        <img src="">
        <h3 class="name">Hi, I am Kevin</h3>
        <span class="role">UX Designer/Protoryper</span>
@@ -371,7 +369,7 @@
        <p class="detailBio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non augue sed lacus venenatis sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce felis orci, interdum id nisl vel, bibendum tristique ante. Duis semper nibh eros, sed consequat ligula maximus eu. Integer aliquet dictum sapien nec rutrum. Pellentesque eget ornare lectus, in iaculis sapien. Cras in tortor sit amet justo lacinia vestibulum. Aliquam accumsan dignissim ipsum non dictum. Donec mauris ex, dapibus a pulvinar non, semper at lectus. Mauris luctus, mauris aliquam dapibus rhoncus, felis nunc sodales felis, in faucibus nisi neque eget odio. Cras porta vehicula metus nec blandit. </p>
      </div>
      <!-- Azure -->
-     <div class="teamBio" style="background: #000080;">
+     <div id="team-al" style="background: #000080;">
        <img src="">
        <h3 class="name">Hi, I am Azure</h3>
        <span class="role">Front End Developer/Desktop Prototyper</span>
@@ -379,13 +377,18 @@
        <p class="detailBio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non augue sed lacus venenatis sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce felis orci, interdum id nisl vel, bibendum tristique ante. Duis semper nibh eros, sed consequat ligula maximus eu. Integer aliquet dictum sapien nec rutrum. Pellentesque eget ornare lectus, in iaculis sapien. Cras in tortor sit amet justo lacinia vestibulum. Aliquam accumsan dignissim ipsum non dictum. Donec mauris ex, dapibus a pulvinar non, semper at lectus. Mauris luctus, mauris aliquam dapibus rhoncus, felis nunc sodales felis, in faucibus nisi neque eget odio. Cras porta vehicula metus nec blandit. </p>
      </div>
      <!-- Fiona  -->
-     <div class="teamBio" style="background: #FF2F91;">
+     <div id="team-fw" style="background: #FF2F91;">
        <img src="">
        <h3 class="name">Hi, I am Fiona</h3>
        <span class="role">UX Designer/Protoryper</span>
        <span class="quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum metus. </span>
        <p class="detailBio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non augue sed lacus venenatis sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce felis orci, interdum id nisl vel, bibendum tristique ante. Duis semper nibh eros, sed consequat ligula maximus eu. Integer aliquet dictum sapien nec rutrum. Pellentesque eget ornare lectus, in iaculis sapien. Cras in tortor sit amet justo lacinia vestibulum. Aliquam accumsan dignissim ipsum non dictum. Donec mauris ex, dapibus a pulvinar non, semper at lectus. Mauris luctus, mauris aliquam dapibus rhoncus, felis nunc sodales felis, in faucibus nisi neque eget odio. Cras porta vehicula metus nec blandit. </p>
      </div>
+     
+</div>
+ 
+       
+       
     </div>
     </dir>
   </div>
