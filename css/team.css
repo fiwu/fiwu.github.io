@@ -16,6 +16,8 @@
 #team-ah, #team-dd, #team-al, #team-kc, #team-fw{
 	position: absolute;
 	display: none;border: #ccc 1px solid;
+	top:150px;
+	left: 80px;
 	border-radius: 5px;
 	padding: 20px;
 	width: 50%;
