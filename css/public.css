@@ -62,14 +62,18 @@ ul,li{list-style: none; margin: 0px;}
 .block-r{ float: right;}
 .block-l a, .block-r a, .block-a a{ display: block; width: 100%; background-color: rgba(235,235,236,0.95);  position: absolute; bottom: 0px; text-align: center; color: #fff; padding: 10px 0; text-decoration:none;}
 .block-l a:hover, .block-r a:hover, .block-a a:hover{ background-color: rgba(235,235,236,0.95); }
-.block-a { width: 100%;}
+.block-a { width: 100%;height: 480px;}
 .sectionBlock .list_space{display: block;width: 100%; height: 15px; margin: 0px;}
 .sectionBlock .list_title{font-size:16px;  line-height: 20px; height: 20px; width: 100%; overflow: hidden; font-weight:500; text-align: center; margin-top:10px;}
 
-.block_cover{width: 100%; height: 40px; line-height: 40px; position: absolute; left: 0px; bottom:0px; color: #292929; background-color: rgba(235,235,236,0.95);}
+.block_cover, .block_coverA{width: 100%; height: 40px; line-height: 40px; position: absolute; left: 0px; bottom:0px; color: #292929; background-color: rgba(235,235,236,0.95);}
+.block_coverA{height: 60px;}
+.sectionBlock .block_coverA .list_title{margin-top:15px; }
 
-.sectionBlock:hover .block_cover{transition: height 0.2s; height: 240px; background-color: rgba(235,235,236,0.95);}
+.sectionBlock:hover .block_cover, .sectionBlock:hover .block_coverA{transition: height 0.2s; height: 240px; background-color: rgba(235,235,236,0.95);}
+.sectionBlock:hover .block_coverA{height: 480px;}
 .sectionBlock:hover .list_title{line-height:240px; height:240px;}
+.sectionBlock:hover .block_coverA .list_title{line-height:480px; height:480px;}
 .block_cover{width: 100%; height: 20%; position: absolute; left: 0px; bottom:0px; color: #292929; background-color: rgba(235,235,236,0.95);}
 
 /*
