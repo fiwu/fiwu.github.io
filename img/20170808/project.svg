@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="502px" height="242px" viewBox="0 0 502 242" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PD---Prototypes" transform="translate(-226.000000, -253.000000)">
+            <g id="Group-3" transform="translate(226.000000, 253.000000)">
+                <rect id="Rectangle" fill="#F05424" x="0" y="0" width="502" height="242" rx="6"></rect>
+                <g id="Group-2" transform="translate(86.000000, 0.000000)">
+                    <polygon id="Fill-1" fill="#242D3C" points="0 178 117 178 117 13 0 13"></polygon>
+                    <polygon id="Fill-2" fill="#CCCBCA" points="0 13 117 13 117 0 0 0"></polygon>
+                    <polygon id="Fill-3" fill="#F05424" points="15 28 36 28 36 25 15 25"></polygon>
+                    <polygon id="Fill-4" fill="#FFFFFF" points="87 47 99 47 99 44 87 44"></polygon>
+                    <polygon id="Fill-5" fill="#F05424" points="43 28 72 28 72 25 43 25"></polygon>
+                    <polygon id="Fill-6" fill="#FFFFFF" points="43 47 82 47 82 44 43 44"></polygon>
+                    <polygon id="Fill-7" fill="#FFFFFF" points="28 39 86 39 86 36 28 36"></polygon>
+                    <polygon id="Fill-8" fill="#242D3C" points="15 57 36 57 36 54 15 54"></polygon>
+                    <polygon id="Fill-9" fill="#FFFFFF" points="87 76 99 76 99 73 87 73"></polygon>
+                    <polygon id="Fill-10" fill="#242D3C" points="43 57 72 57 72 54 43 54"></polygon>
+                    <polygon id="Fill-11" fill="#FFFFFF" points="43 76 82 76 82 73 43 73"></polygon>
+                    <polygon id="Fill-12" fill="#FFFFFF" points="28 67 86 67 86 64 28 64"></polygon>
+                    <polygon id="Fill-13" fill="#242D3C" points="15 87 36 87 36 84 15 84"></polygon>
+                    <polygon id="Fill-14" fill="#FFFFFF" points="87 107 99 107 99 104 87 104"></polygon>
+                    <polygon id="Fill-15" fill="#242D3C" points="43 87 72 87 72 84 43 84"></polygon>
+                    <polygon id="Fill-16" fill="#FFFFFF" points="43 107 82 107 82 104 43 104"></polygon>
+                    <polygon id="Fill-17" fill="#FFFFFF" points="28 96 86 96 86 93 28 93"></polygon>
+                    <polygon id="Fill-18" fill="#F05424" points="15 57 36 57 36 54 15 54"></polygon>
+                    <polygon id="Fill-19" fill="#FFFFFF" points="87 76 99 76 99 73 87 73"></polygon>
+                    <polygon id="Fill-20" fill="#F05424" points="43 57 72 57 72 54 43 54"></polygon>
+                    <polygon id="Fill-21" fill="#FFFFFF" points="43 76 82 76 82 73 43 73"></polygon>
+                    <polygon id="Fill-22" fill="#FFFFFF" points="28 67 86 67 86 64 28 64"></polygon>
+                    <polygon id="Fill-23" fill="#F05424" points="15 87 36 87 36 84 15 84"></polygon>
+                    <polygon id="Fill-24" fill="#FFFFFF" points="87 107 99 107 99 104 87 104"></polygon>
+                    <polygon id="Fill-25" fill="#F05424" points="43 87 72 87 72 84 43 84"></polygon>
+                    <polygon id="Fill-26" fill="#FFFFFF" points="43 107 82 107 82 104 43 104"></polygon>
+                    <polygon id="Fill-27" fill="#FFFFFF" points="28 96 86 96 86 93 28 93"></polygon>
+                    <polygon id="Fill-28" fill="#242D3C" points="15 115 36 115 36 112 15 112"></polygon>
+                    <polygon id="Fill-29" fill="#FFFFFF" points="87 133 99 133 99 130 87 130"></polygon>
+                    <polygon id="Fill-30" fill="#242D3C" points="43 115 72 115 72 112 43 112"></polygon>
+                    <polygon id="Fill-31" fill="#FFFFFF" points="43 133 82 133 82 130 43 130"></polygon>
+                    <polygon id="Fill-32" fill="#FFFFFF" points="28 125 86 125 86 122 28 122"></polygon>
+                    <polygon id="Fill-33" fill="#242D3C" points="15 144 36 144 36 141 15 141"></polygon>
+                    <polygon id="Fill-34" fill="#FFFFFF" points="87 164 99 164 99 161 87 161"></polygon>
+                    <polygon id="Fill-35" fill="#242D3C" points="43 144 72 144 72 141 43 141"></polygon>
+                    <polygon id="Fill-36" fill="#FFFFFF" points="43 164 82 164 82 161 43 161"></polygon>
+                    <polygon id="Fill-37" fill="#FFFFFF" points="28 153 86 153 86 150 28 150"></polygon>
+                </g>
+                <path d="M316.707149,161 C311.921563,161 308,157.055307 308,152.222661 L308,43.7872598 C308,38.9585827 311.921563,35 316.707149,35 L367.282026,35 C372.094182,35 376,38.9585827 376,43.7872598 L376,152.222661 C376,157.055307 372.094182,161 367.282026,161 L316.707149,161 Z" id="Fill-1" fill="#242D3C"></path>
+                <path d="M351,150.938537 C351,152.077073 350.075463,153 348.938625,153 L338.065288,153 C336.936277,153 336,152.077073 336,150.938537 L336,150.070244 C336,148.936585 336.936277,148 338.065288,148 L348.938625,148 C350.075463,148 351,148.936585 351,150.070244 L351,150.938537 Z" id="Fill-3" fill="#474F59"></path>
+                <path d="M351,44.1731415 C351,44.6354916 350.632891,45 350.165749,45 L333.840078,45 C333.386533,45 333,44.6354916 333,44.1731415 L333,43.8278177 C333,43.3760192 333.386533,43 333.840078,43 L350.165749,43 C350.632891,43 351,43.3760192 351,43.8278177 L351,44.1731415 Z" id="Fill-5" fill="#474F59"></path>
+                <polygon id="Fill-7" fill="#F05424" points="313 142 372 142 372 54 313 54"></polygon>
+                <polygon id="Fill-9" fill="#242D3C" points="348 100 383 100 383 80 348 80"></polygon>
+                <polygon id="Fill-10" fill="#FFFFFF" points="364 88 369 91.0014523 364 94"></polygon>
+                <polygon id="Fill-11" fill="#242D3C" points="280 90 302 90 302 68 280 68"></polygon>
+                <polygon id="Fill-12" fill="#CCCBCA" points="305 79 316 79 316 77 305 77"></polygon>
+                <polygon id="Fill-13" fill="#FFFFFF" points="339 70 341 70 341 68 339 68"></polygon>
+                <path d="M334.398388,70 L337,70 L337,68 L334.398388,68 L334.398388,70 Z M329.189118,70 L331.795768,70 L331.795768,68 L329.189118,68 L329.189118,70 Z M324,70 L326.604635,70 L326.604635,68 L324,68 L324,70 Z" id="Fill-14" fill="#FFFFFF"></path>
+                <polygon id="Fill-15" fill="#FFFFFF" points="319 70 321 70 321 68 319 68"></polygon>
+                <path d="M319,75.5985894 L321,75.5985894 L321,73 L319,73 L319,75.5985894 Z M319,80.8008061 L321,80.8008061 L321,78.1991939 L319,78.1991939 L319,80.8008061 Z M319,86 L321,86 L321,83.3983878 L319,83.3983878 L319,86 Z" id="Fill-16" fill="#FFFFFF"></path>
+                <polygon id="Fill-17" fill="#FFFFFF" points="319 90 321 90 321 88 319 88"></polygon>
+                <path d="M334.396977,90 L337,90 L337,88 L334.396977,88 L334.396977,90 Z M329.186899,90 L331.794961,90 L331.794961,88 L329.186899,88 L329.186899,90 Z M324,90 L326.603023,90 L326.603023,88 L324,88 L324,90 Z" id="Fill-18" fill="#FFFFFF"></path>
+                <polygon id="Fill-19" fill="#FFFFFF" points="339 90 341 90 341 88 339 88"></polygon>
+                <path d="M339,75.5991937 L341,75.5991937 L341,73 L339,73 L339,75.5991937 Z M339,80.8026204 L341,80.8026204 L341,78.2004031 L339,78.2004031 L339,80.8026204 Z M339,86 L341,86 L341,83.4008063 L339,83.4008063 L339,86 Z" id="Fill-20" fill="#FFFFFF"></path>
+                <polygon id="Fill-21" fill="#474F59" points="406 124 417 124 417 113 406 113"></polygon>
+                <polygon id="Fill-22" fill="#CCCBCA" points="358 124 406 124 406 113 358 113"></polygon>
+                <polygon id="Fill-23" fill="#EE643C" points="266 117 277 117 277 106 266 106"></polygon>
+                <polygon id="Fill-24" fill="#FFFFFF" points="270 111 272 111 272 109 270 109"></polygon>
+                <polygon id="Fill-26" fill="#FFFFFF" points="280 111 296 111 296 109 280 109"></polygon>
+                <polygon id="Fill-27" fill="#FFFFFF" points="327 126 343 126 343 110 327 110"></polygon>
+                <path d="M335.487484,119 C332.999679,119 331,121.239401 331,124 L340,124 C340,121.239401 337.975289,119 335.487484,119" id="Fill-28" fill="#474F59"></path>
+                <path d="M339,114.998931 C339,116.659301 337.655375,118 335.984489,118 C334.345694,118 333,116.659301 333,114.998931 C333,113.347113 334.345694,112 335.984489,112 C337.655375,112 339,113.347113 339,114.998931" id="Fill-29" fill="#474F59"></path>
+                <polygon id="Fill-30" fill="#FFFFFF" points="387 158 402 158 402 143 387 143"></polygon>
+                <path d="M397.59355,147.821937 C396.553633,146.22937 394.499936,147.169534 394.499936,148.785166 C394.499936,147.169534 392.447173,146.22937 391.407256,147.821937 C390.332799,149.468322 391.391387,152.345927 394.499936,154 C397.609419,152.345927 398.666139,149.468322 397.59355,147.821937" id="Fill-31" fill="#F05424"></path>
+                <polygon id="Fill-32" fill="#CCCBCA" points="291 153 320 153 320 124 291 124"></polygon>
+                <path d="M306.006584,141.075924 C304.300883,141.075924 302.918294,139.704235 302.918294,137.996457 C302.918294,136.292728 304.300883,134.915978 306.006584,134.915978 C307.708233,134.915978 309.085758,136.292728 309.085758,137.996457 C309.085758,139.704235 307.708233,141.075924 306.006584,141.075924 L306.006584,141.075924 Z M315,138.68382 L315,137.314156 L313.064375,136.923401 C312.981318,136.392948 312.846604,135.883752 312.661246,135.395816 L314.148163,134.085878 L313.462439,132.910579 L311.585561,133.541252 C311.243205,133.128227 310.881605,132.75367 310.460244,132.417581 L311.093298,130.538721 L309.917337,129.864518 L308.599572,131.349587 C308.124529,131.159271 307.597828,131.024633 307.075179,130.945672 L306.68623,129 L305.315795,129 L304.928873,130.945672 C304.402172,131.024633 303.890665,131.159271 303.403466,131.349587 L302.098869,129.864518 L300.911766,130.538721 L301.545833,132.418593 C301.132576,132.754682 300.755782,133.128227 300.419504,133.543277 L298.544651,132.910579 L297.865005,134.085878 L299.355973,135.39784 C299.15846,135.884765 299.024759,136.394972 298.932587,136.923401 L297,137.314156 L297.001013,138.68382 L298.932587,139.072549 C299.024759,139.603003 299.160486,140.111186 299.356986,140.600135 L297.865005,141.910073 L298.544651,143.083347 L300.419504,142.45065 C300.755782,142.868736 301.133588,143.244306 301.545833,143.575333 L300.911766,145.451156 L302.098869,146.131432 L303.401441,144.64029 C303.890665,144.83263 304.401159,144.968281 304.928873,145.051291 L305.315795,147 L306.68623,147 L307.075179,145.051291 C307.597828,144.968281 308.124529,144.83263 308.599572,144.64029 L309.919363,146.131432 L311.093298,145.451156 L310.460244,143.575333 C310.881605,143.245318 311.241179,142.868736 311.584548,142.452674 L313.462439,143.083347 L314.148163,141.910073 L312.661246,140.60216 C312.846604,140.116248 312.981318,139.604016 313.064375,139.069512 L315,138.68382 Z" id="Fill-33" fill="#474F59"></path>
+                <path d="M386,61.5 C386,62.8807398 384.887354,64 383.500531,64 C382.127524,64 381,62.8807398 381,61.5 C381,60.1203231 382.127524,59 383.500531,59 C384.887354,59 386,60.1203231 386,61.5" id="Fill-36" fill="#353F49"></path>
+                <g id="Page-1" transform="translate(109.000000, 125.000000)">
+                    <polygon id="Fill-1" fill="#CCCBCA" points="0 67 173 67 173 0 0 0"></polygon>
+                    <polygon id="Fill-2" fill="#FFFFFF" points="6 15 15 15 15 6 6 6"></polygon>
+                    <polygon id="Fill-3" fill="#FFFFFF" points="147 26 156 26 156 17 147 17"></polygon>
+                    <polygon id="Fill-4" fill="#FFFFFF" points="136 26 145 26 145 17 136 17"></polygon>
+                    <polygon id="Fill-5" fill="#FFFFFF" points="125 26 134 26 134 17 125 17"></polygon>
+                    <polygon id="Fill-6" fill="#FFFFFF" points="113 26 122 26 122 17 113 17"></polygon>
+                    <polygon id="Fill-7" fill="#FFFFFF" points="102 26 111 26 111 17 102 17"></polygon>
+                    <polygon id="Fill-8" fill="#FFFFFF" points="91 26 100 26 100 17 91 17"></polygon>
+                    <polygon id="Fill-9" fill="#FFFFFF" points="79 26 88 26 88 17 79 17"></polygon>
+                    <polygon id="Fill-10" fill="#FFFFFF" points="68 26 77 26 77 17 68 17"></polygon>
+                    <polygon id="Fill-11" fill="#FFFFFF" points="57 26 66 26 66 17 57 17"></polygon>
+                    <polygon id="Fill-12" fill="#FFFFFF" points="45 26 54 26 54 17 45 17"></polygon>
+                    <polygon id="Fill-13" fill="#FFFFFF" points="34 26 43 26 43 17 34 17"></polygon>
+                    <polygon id="Fill-14" fill="#FFFFFF" points="23 26 32 26 32 17 23 17"></polygon>
+                    <polygon id="Fill-15" fill="#FFFFFF" points="25 37 34 37 34 28 25 28"></polygon>
+                    <polygon id="Fill-16" fill="#FFFFFF" points="20 49 29 49 29 40 20 40"></polygon>
+                    <polygon id="Fill-17" fill="#FFFFFF" points="31 49 40 49 40 40 31 40"></polygon>
+                    <polygon id="Fill-18" fill="#FFFFFF" points="43 49 52 49 52 40 43 40"></polygon>
+                    <polygon id="Fill-19" fill="#FFFFFF" points="54 49 63 49 63 40 54 40"></polygon>
+                    <polygon id="Fill-20" fill="#FFFFFF" points="65 49 74 49 74 40 65 40"></polygon>
+                    <polygon id="Fill-21" fill="#FFFFFF" points="77 49 86 49 86 40 77 40"></polygon>
+                    <polygon id="Fill-22" fill="#FFFFFF" points="88 49 97 49 97 40 88 40"></polygon>
+                    <polygon id="Fill-23" fill="#FFFFFF" points="99 49 108 49 108 40 99 40"></polygon>
+                    <polygon id="Fill-24" fill="#FFFFFF" points="111 49 120 49 120 40 111 40"></polygon>
+                    <polygon id="Fill-25" fill="#FFFFFF" points="122 49 131 49 131 40 122 40"></polygon>
+                    <polygon id="Fill-26" fill="#FFFFFF" points="133 49 142 49 142 40 133 40"></polygon>
+                    <polygon id="Fill-27" fill="#FFFFFF" points="145 49 168 49 168 40 145 40"></polygon>
+                    <polygon id="Fill-28" fill="#FFFFFF" points="37 37 46 37 46 28 37 28"></polygon>
+                    <polygon id="Fill-29" fill="#FFFFFF" points="48 37 57 37 57 28 48 28"></polygon>
+                    <polygon id="Fill-30" fill="#FFFFFF" points="59 37 68 37 68 28 59 28"></polygon>
+                    <polygon id="Fill-31" fill="#FFFFFF" points="71 37 80 37 80 28 71 28"></polygon>
+                    <polygon id="Fill-32" fill="#FFFFFF" points="82 37 91 37 91 28 82 28"></polygon>
+                    <polygon id="Fill-33" fill="#FFFFFF" points="93 37 102 37 102 28 93 28"></polygon>
+                    <polygon id="Fill-34" fill="#FFFFFF" points="105 37 114 37 114 28 105 28"></polygon>
+                    <polygon id="Fill-35" fill="#FFFFFF" points="116 37 125 37 125 28 116 28"></polygon>
+                    <polygon id="Fill-36" fill="#FFFFFF" points="127 37 136 37 136 28 127 28"></polygon>
+                    <polygon id="Fill-37" fill="#FFFFFF" points="139 37 148 37 148 28 139 28"></polygon>
+                    <polygon id="Fill-38" fill="#FFFFFF" points="150 37 159 37 159 28 150 28"></polygon>
+                    <polygon id="Fill-39" fill="#FFFFFF" points="17 15 26 15 26 6 17 6"></polygon>
+                    <polygon id="Fill-40" fill="#FFFFFF" points="28 15 37 15 37 6 28 6"></polygon>
+                    <polygon id="Fill-41" fill="#FFFFFF" points="40 15 49 15 49 6 40 6"></polygon>
+                    <polygon id="Fill-42" fill="#FFFFFF" points="51 15 60 15 60 6 51 6"></polygon>
+                    <polygon id="Fill-43" fill="#FFFFFF" points="62 15 71 15 71 6 62 6"></polygon>
+                    <polygon id="Fill-44" fill="#FFFFFF" points="74 15 83 15 83 6 74 6"></polygon>
+                    <polygon id="Fill-45" fill="#FFFFFF" points="85 15 94 15 94 6 85 6"></polygon>
+                    <polygon id="Fill-46" fill="#FFFFFF" points="96 15 105 15 105 6 96 6"></polygon>
+                    <polygon id="Fill-47" fill="#FFFFFF" points="108 15 117 15 117 6 108 6"></polygon>
+                    <polygon id="Fill-48" fill="#FFFFFF" points="119 15 128 15 128 6 119 6"></polygon>
+                    <polygon id="Fill-49" fill="#FFFFFF" points="130 15 139 15 139 6 130 6"></polygon>
+                    <polygon id="Fill-50" fill="#FFFFFF" points="142 15 151 15 151 6 142 6"></polygon>
+                    <polygon id="Fill-51" fill="#FFFFFF" points="153 15 167 15 167 6 153 6"></polygon>
+                    <polygon id="Fill-52" fill="#FFFFFF" points="6 26 20 26 20 17 6 17"></polygon>
+                    <polygon id="Fill-53" fill="#FFFFFF" points="6 37 23 37 23 28 6 28"></polygon>
+                    <polygon id="Fill-54" fill="#FFFFFF" points="6 49 17 49 17 40 6 40"></polygon>
+                    <polygon id="Fill-55" fill="#FFFFFF" points="6 61 15 61 15 51 6 51"></polygon>
+                    <polygon id="Fill-56" fill="#FFFFFF" points="17 61 26 61 26 51 17 51"></polygon>
+                    <polygon id="Fill-57" fill="#FFFFFF" points="28 61 37 61 37 51 28 51"></polygon>
+                    <polygon id="Fill-58" fill="#FFFFFF" points="40 61 52 61 52 51 40 51"></polygon>
+                    <polygon id="Fill-59" fill="#FFFFFF" points="54 61 108 61 108 51 54 51"></polygon>
+                    <polygon id="Fill-60" fill="#FFFFFF" points="111 61 123 61 123 51 111 51"></polygon>
+                    <polygon id="Fill-61" fill="#FFFFFF" points="125 61 134 61 134 51 125 51"></polygon>
+                    <polygon id="Fill-62" fill="#FFFFFF" points="136 62 145 62 145 57 136 57"></polygon>
+                    <polygon id="Fill-63" fill="#FFFFFF" points="147 61 156 61 156 57 147 57"></polygon>
+                    <polygon id="Fill-64" fill="#FFFFFF" points="147 55 156 55 156 51 147 51"></polygon>
+                    <polygon id="Fill-65" fill="#FFFFFF" points="159 62 168 62 168 57 159 57"></polygon>
+                    <polygon id="Fill-66" fill="#FFFFFF" points="161.808973 37 161.808973 25.6329536 159 25.6329536 159 17 168 17 168 37"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

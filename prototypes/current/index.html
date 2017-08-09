@@ -11,6 +11,17 @@
 <!--
 <link rel="stylesheet" type="text/css" href="../../css/github_gist.css" media="screen"> -->
 <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+<script>
+  if(location.host == 'uxccds.github.io'){
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-99987509-1', 'auto');
+	  ga('send', 'pageview');  	
+  }
+</script>
 <script type="text/javascript" src="../../js/jquery-2.0.0.min.js"></script>
 <script type="text/javascript" src="../../js/highlight.pack.js"></script>
 
@@ -21,7 +32,7 @@
   <body>
       <header class="header">
   	<div class="NavContent">
-	    <a href="/" class="logo"><img src="../../img/logo.png"></a>
+	    <a href="/" class="logo"><img src="../../img/20170808/logo.svg"><span>Prototype</span><span class="orange">Depot</span></a>
 	    <input class="menu-btn" type="checkbox" id="menu-btn" />
 	    <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
 		<ul class="Nav">
@@ -127,11 +138,51 @@
               <div class='article_con_thumbnail' id='article_con'>
                 <div class='article_view_btn'><a class='btn_thumbnail' title="thumbnail view" id='btn_thumbnail'></a><a class='btn_list' title='list view' id='btn_list'></a></div>
                 
+                <a class="articleBlock"  target='_self' href='filter-and-search.html'>
+                    <div class='articleBlock_cover'>
+                        <p class='list_space'></p>
+                        <p class="list_title">Filter and Search</p>
+                        <p class='list_item_date'>2017-8-02</p>
+                        <p class='list_item_desc'>Filter and Search functions for Spark</p>
+                    </div>
+                    <div class="list_img" style="background-image: url('../../img_data/prototypes/cover/Search Filter.png');"></div>
+                </a>
+                
+                <a class="articleBlock"  target='_self' href='information-architecture-p2.html'>
+                    <div class='articleBlock_cover'>
+                        <p class='list_space'></p>
+                        <p class="list_title">IA (Flagpole)</p>
+                        <p class='list_item_date'>2017-8-01</p>
+                        <p class='list_item_desc'>Information Architecture for the future release of Cisco Spark</p>
+                    </div>
+                    <div class="list_img" style="background-image: url('../../img_data/prototypes/cover/IA flagpole.png');"></div>
+                </a>
+                
+                <a class="articleBlock"  target='_self' href='information-architecture.html'>
+                    <div class='articleBlock_cover'>
+                        <p class='list_space'></p>
+                        <p class="list_title">IA (Phase 1)</p>
+                        <p class='list_item_date'>2017-8-01</p>
+                        <p class='list_item_desc'>Information Architecture for phase 1 release of Cisco Spark</p>
+                    </div>
+                    <div class="list_img" style="background-image: url('../../img_data/prototypes/cover/IA phase1.png');"></div>
+                </a>
+                
+                <a class="articleBlock"  target='_self' href='pstn.html'>
+                    <div class='articleBlock_cover'>
+                        <p class='list_space'></p>
+                        <p class="list_title">PSTN</p>
+                        <p class='list_item_date'>2017-6-5</p>
+                        <p class='list_item_desc'>Interstitial page exploration with PSTN implementation</p>
+                    </div>
+                    <div class="list_img" style="background-image: url('../../img_data/prototypes/cover/PSTN.png');"></div>
+                </a>
+                
                 <a class="articleBlock"  target='_self' href='spark-pairing.html'>
                     <div class='articleBlock_cover'>
                         <p class='list_space'></p>
                         <p class="list_title">Spark Device Pairing</p>
-                        <p class='list_item_date'>2017-5-18</p>
+                        <p class='list_item_date'>2017-5-16</p>
                         <p class='list_item_desc'>Mobile and Desktop Spark Prototype featuring the pairing functions</p>
                     </div>
                     <div class="list_img" style="background-image: url('../../img_data/prototypes/cover/Spark Pairing_Cover.png');"></div>
@@ -179,9 +230,7 @@
                  
               </div>
               <!-- end of list items -->        
-              <div class='pagination'>
-               Page <a href="index.html" class="current">1</a>
-              </div>    
+              <div class='pagination'><a href="index.html" class="current">1</a></div>    
             </div>
             </div>
         </div>
