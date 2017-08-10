@@ -3,10 +3,11 @@
 <head>
   <%- include('controls/head') %>
   <link rel="stylesheet" type="text/css" href="<%= Source_css %>prototype.css" media="screen">
+  <script type="text/javascript" src='<%= Source_js %>svg_banner.js'></script>
   <style>
-  @media only screen and ( max-width: 500px) {
-.breadcrumbs {display: none;}
-  }
+    @media only screen and ( max-width: 500px) {
+      .breadcrumbs {display: none;}
+    }
   </style>
 </head>
 <body>
@@ -21,35 +22,26 @@
       <!-- intro text 
       <div class="intro"><span>Find the latest prototypes and test resultes here. Get to know the team and the limitless future of Cisco Spark.</span></div>-->
       <!--content blocks -->
-      <div class="block-wrapper">
-      <a class="sectionBlock" href="./current/index.html">
-        <div class="block-l"  style="background-image:url('<%= Source_img %><%= Version %>/project.svg')">
-        <div class="block_cover">
-        <p class="list_title">CURRENT PROTOTYPES</p>
+        <div class="block-wrapper2">
+            <a class="sectionBlock bg_orange" href="./current/index.html">
+                <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/project.svg')"></div>
+                <p class="list_title">CURRENT PROTOTYPES</p>      
+            </a>     
+            <a class="sectionBlock bg_yellow2 last_block" href="./archived/index.html">
+                <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/archiving.svg')"></div> 
+                <p class="list_title">ARCHIVED PROTOTYPES</p>
+            </a>
         </div>
+        <div class="block-wrapper2">
+            <a class="sectionBlock bg_blue" href="./experimental/index.html">
+                <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/experimental.svg')"></div>
+                <p class="list_title">EXPERIMENTAL CONCEPTS</p>           
+            </a>
+            <a class="sectionBlock bg_dark last_block" href="./faq/index.html">
+                <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/faq.svg')"></div> 
+                <p class="list_title">TROUBLESHOOTING</p>
+            </a>
         </div>
-      </a>     
-      <a class="sectionBlock" href="./archived/index.html">
-        <div class="block-r" style="background-image:url('<%= Source_img %><%= Version %>/archiving.svg')"> 
-        <div class="block_cover">
-          <p class="list_title">ARCHIVED PROTOTYPES</p></div></div>
-      </a>
-      <a class="sectionBlock" href="./experimental/index.html">
-        <div class="block-l" style="background-image:url('<%= Source_img %><%= Version %>/experimental.svg')"> 
-        <div class="block_cover">
-          <p class="list_title">EXPERIMENTAL CONCEPTS</p></div>
-          </div>
-      </a>
-
-      <a class="sectionBlock" href="./faq/index.html">
-        <div class="block-r" style="background-image:url('<%= Source_img %><%= Version %>/faq.svg')"> 
-        <div class="block_cover">
-        <p class="list_title">TROUBLESHOOTING</p>
-        </div>
-        </div>
-      </div>
-      </a>
-    </div>
     <div class="container_left"></div>
   </div>
  </div>

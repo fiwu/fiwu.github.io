@@ -57,23 +57,43 @@ ul,li{list-style: none; margin: 0px;}
 .intro span { display: block; height: 30px; width: 100%; color: #666; text-align: center; font-size: 20px; margin: 15px 0;}
 
 /*section blocks */
-.block-wrapper{ width: 100%; margin-bottom: 20px; clear: both;}
-/* blocks for right, left, top and bottom right, top and bottom left, and all, ll=large left, lr = large*/
-.block-l, .block-r, .block-a, .block-tr, .block-tl, .block-br, .block-bl, .block-ll, .block-lr{ width: 48%; height: 240px; border-radius: 6px; position: relative;  margin-bottom: 20px; background-repeat: no-repeat; background-position: center; background-size: cover; }
-.block-l{ float: left;}
-.block-r{ float: right;}
-.block-l a, .block-r a, .block-a a{ display: block; width: 100%; background-color: rgba(255,255,255,0.15); position: absolute; bottom: 0px; text-align: center; color: #fff; padding: 10px 0; text-decoration:none;}
-.block-l a:hover, .block-r a:hover, .block-a a:hover{ background-color: rgba(235,235,236,0.95);  }
-.block-a { width: 100%; height: 300px;} /* add height =300px*/
-.sectionBlock .list_space{display: block;width: 100%; height: 15px; margin: 0px;}
-.sectionBlock .list_title{font-size:14px; color: white; line-height: 20px; height: 20px; width: 100%; overflow: hidden; font-weight:500; margin-top:10px; text-indent: 30px;text-transform: uppercase; }
+.block-wrapper,.block-wrapper2{ width: 100%; margin-bottom: 20px; display: -webkit-flex; -webkit-flex-flow: row;}
+.block-wrapper .sectionBlock,.block-wrapper2 .sectionBlock{ display: block; -webkit-flex:1;border-radius: 6px; position: relative;}
+.sectionBlock .block-bg{position: absolute; top: 0px; left: 0px; width: 100%;  background-position: center; background-repeat: no-repeat; background-size: contain;}
+.sectionBlock .list_title{ display: block; font-size:14px; color: white; line-height: 50px; height: 50px; width: 100%; overflow: hidden; font-weight:500;  text-indent: 30px;text-transform: uppercase;  position: absolute; bottom: 0px; left: 0px;background-color: rgba(255,255,255,0.15);}
+.block-wrapper2 .sectionBlock:hover .list_title{color: #242D3C; background-color: rgba(235,235,236,0.95); border-radius: 4px;}
 
+
+.block-wrapper {height: 301px; }
+.block-wrapper .sectionBlock{height: 301px;}
+.block-wrapper .sectionBlock .block-bg{height: 251px;}
+.block-wrapper .sectionBlock{height: 301px;}
+
+/*
+.sectionBlock:hover .list_title{color: #242D3C; background-color: rgba(235,235,236,0.95); border-radius: 4px;}
+.block-wrapper .sectionBlock:hover .list_title {transition: height 0.2s,line-height 0.2s; line-height:301px; height:301px;}
+*/
+
+.block-wrapper2 {height: 242px; }
+.block-wrapper2 .sectionBlock{height: 242px;}
+.block-wrapper2 .last_block{margin-left: 42px;}
+.block-wrapper2 .sectionBlock .block-bg{height: 192px;}
+.block-wrapper2 .sectionBlock:hover .list_title {transition: height 0.2s,line-height 0.2s; line-height:242px; height:242px;}
+
+.block-bg svg{width: 100%;position: absolute;}
+
+/*
 .sectionBlock:hover .block_cover, .sectionBlock:hover .block-a .block_cover{transition: height 0.2s; height: 240px; background-color: rgba(235,235,236,0.95); }
 .sectionBlock:hover .block-a .block_cover {height: 300px;}
 .sectionBlock:hover .list_title, .sectionBlock:hover .block-a .list_title{line-height:240px; height:240px;color: #242D3C; }
-.sectionBlock:hover .block-a .list_title{ ine-height:300px; height:300px; margin-top: 50px;}
+.sectionBlock:hover .block-a .list_title{ line-height:300px; height:300px; margin-top: 50px;}
+*/
 
-.block_cover{width: 100%; height: 40px; line-height: 40px; position: absolute; left: 0px; bottom:0px; color: white; background-color: rgba(255,255,255,0.15);}
+.bg_orange{background-color: #F05424;}
+.bg_yellow{background-color: #FFCA40;}
+.bg_yellow2{background-color: #FFBB33;}
+.bg_blue{background-color: #17C5CD;}
+.bg_dark{background-color: #242D3C;}
 
 /*
 .sectionBlock:hover .block_cover{transition: height 0.2s; height: 100%; background-color: rgba(7,193,228,0.95); }
@@ -104,8 +124,11 @@ ul,li{list-style: none; margin: 0px;}
   .wrapper{ margin-top: 0;}
   .content{ border: none; padding: 10px 0px; margin-left: 0;}
   .intro { margin-bottom: 40px;}
-  .block-wrapper{ margin-top: 20px;}
-  .block-l, .block-r{ width: 100%; margin-top: 20px;}
+
+  .block-wrapper2 { display: block; height: auto;}
+  .block-wrapper2 .sectionBlock{ width: 100%;}
+  .block-wrapper2 .last_block{margin-left: 0px; margin-top: 24px;}
+
   .container_left{ width: 20px; -webkit-flex:none; flex:none;}
   .pagination{ margin-top: 40px; text-align: center;}
   /* divider not used */
