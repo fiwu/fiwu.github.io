@@ -15,10 +15,12 @@
       
         <%- include('controls/breadcrumbs') %>   
         <!-- intro text -->
-        <h1 class='part_h1'><a>Members</a></h1>
+        <!--<h1 class='part_h1'><a>Members</a></h1> -->
 
         <div class="desktopBio">
+        <div class="mapWrap">
           <%- include('controls/map') %> 
+        </div>
         </div>
         <!-- mobile bio -->
         <div class="mobileBio">
@@ -68,14 +70,8 @@
     
     </div>
   </div>    
-  <div class='team_project'>
-    <h1 class='part_h1'><a>Projects</a></h1>
-    <div class='team_project_logos'><a class='logo_webex'></a><a class='logo_spark'></a><a class='logo_jabber'></a></div>
-  </div>
-  <div class='team_project_photo'></div>
+  
   <!-- footer -->
-  <div class="footerWrap">
   <%- include('controls/footer') %>
-  </div>
 </body>
 </html>

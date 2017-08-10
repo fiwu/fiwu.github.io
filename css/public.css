@@ -1,15 +1,15 @@
 *{padding: 0px; margin: 0px;/*font-family: Helvetica, Arial, sans-serif*/;font-family: 'Quicksand', sans-serif; color: #242D3C; font-size: 12px;}
 
 
-body {font-family: 'Quicksand', sans-serif; background-color: #fefefe;  overflow: auto; min-width: 300px; }
+body {font-family: 'Quicksand', sans-serif; background-color: #fefefe;  overflow: auto; min-width: 300px;}
 
 a{color: #000;  word-wrap:break-word;}
 a:hover {color:#666;}
 h1, h2, h3, h4, h5,h6{ margin-top: 0;}
 ul,li{list-style: none; margin: 0px;}
 
-.container { width: 100%;  display:flex;  flex-flow: row;  display: -webkit-flex; -webkit-flex-flow: row;margin:0 auto;  position: relative; background: #D9D8D7;}
-.wrapper{ width: 1044px; margin: 0 auto; padding:10px 20px; background: #fefefe;}
+.container { width: 100%;  display:flex;  flex-flow: row;  display: -webkit-flex; -webkit-flex-flow: row;margin:0 auto;  position: relative;}
+.wrapper{ width: 1044px; margin:10px auto; padding:0 20px;}
 
 .container_left{ width: 40px; -webkit-flex:none; flex:none;}
 .main{  -webkit-flex:1; flex:1; margin-top: 0px; }
@@ -24,15 +24,13 @@ ul,li{list-style: none; margin: 0px;}
 .breadcrumbs li+li::before{ content: '>'; color: #4F5051; margin-right: 5px; }
 .breadcrumbs li:last-child a{ text-decoration: none;}
 .content{ width: 100%; /* border-right: 1px solid #ccc; */ }
-.footerWrap { background: #D9D8D7;width: 100%;}
-.copyright {  width:1084px; margin: 0 auto; text-align: center;  color: #4F5051; font-size: 12px; background: #Fefefe; height: 80px;}
-
+.copyright {   width: 100%; margin: 80px auto; text-align: center;  color: #4F5051; font-size: 12px;}
 
 /* header */
-.header { background-color: #D9D8D7; position: relative; width: 100%; margin: 0 auto; z-index: 3; }
+.header { background-color: #fff; position: relative; width: 100%; margin: 0 auto; z-index: 3; }
 
 /* center nav items */
-.NavContent{ width: 1084px; margin: 0 auto; position: relative; height: 80px; background: #fefefe;}
+.NavContent{ width: 1024px; margin: 0 auto; position: relative; height: 80px;}
 .NavContent .logo{display: block; position: absolute; top: 0px;left: 10px; height: 80px; }
 .NavContent .logo img{height: 70%; margin-top: 14px; display: inline-block; vertical-align: top;}
 .NavContent .logo span{font-size: 18px;display: inline-block;vertical-align: top;margin-left: 17px; height: 80px; line-height: 80px;}
@@ -66,12 +64,14 @@ ul,li{list-style: none; margin: 0px;}
 .block-r{ float: right;}
 .block-l a, .block-r a, .block-a a{ display: block; width: 100%; background-color: rgba(255,255,255,0.15); position: absolute; bottom: 0px; text-align: center; color: #fff; padding: 10px 0; text-decoration:none;}
 .block-l a:hover, .block-r a:hover, .block-a a:hover{ background-color: rgba(235,235,236,0.95);  }
-.block-a { width: 100%;}
+.block-a { width: 100%; height: 300px;} /* add height =300px*/
 .sectionBlock .list_space{display: block;width: 100%; height: 15px; margin: 0px;}
 .sectionBlock .list_title{font-size:14px; color: white; line-height: 20px; height: 20px; width: 100%; overflow: hidden; font-weight:500; margin-top:10px; text-indent: 30px;text-transform: uppercase; }
 
-.sectionBlock:hover .block_cover{transition: height 0.2s; height: 240px; background-color: rgba(235,235,236,0.95); }
-.sectionBlock:hover .list_title{line-height:240px; height:240px;color: #242D3C; }
+.sectionBlock:hover .block_cover, .sectionBlock:hover .block-a .block_cover{transition: height 0.2s; height: 240px; background-color: rgba(235,235,236,0.95); }
+.sectionBlock:hover .block-a .block_cover {height: 300px;}
+.sectionBlock:hover .list_title, .sectionBlock:hover .block-a .list_title{line-height:240px; height:240px;color: #242D3C; }
+.sectionBlock:hover .block-a .list_title{ ine-height:300px; height:300px; margin-top: 50px;}
 
 .block_cover{width: 100%; height: 40px; line-height: 40px; position: absolute; left: 0px; bottom:0px; color: white; background-color: rgba(255,255,255,0.15);}
 
@@ -83,7 +83,7 @@ ul,li{list-style: none; margin: 0px;}
 /* divider not used */
 .divider{ border-bottom: 1px dotted #ccc; border-top: 0; display: none;}
 
-.orange{color: #F15424}
+.orange{color: #F05424}
 
 /* ---- media query below ---*/
 
