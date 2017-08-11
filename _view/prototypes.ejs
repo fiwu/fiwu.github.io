@@ -2,8 +2,8 @@
 <html>
 <head>
   <%- include('controls/head') %>
-  <link rel="stylesheet" type="text/css" href="<%= Source_css %>prototype.css" media="screen">
   <script type="text/javascript" src='<%= Source_js %>svg_banner.js'></script>
+  <script type="text/javascript" src='<%= Source_js %>prototypes.js'></script>
   <style>
     @media only screen and ( max-width: 500px) {
       .breadcrumbs {display: none;}
@@ -23,22 +23,30 @@
       <div class="intro"><span>Find the latest prototypes and test resultes here. Get to know the team and the limitless future of Cisco Spark.</span></div>-->
       <!--content blocks -->
         <div class="block-wrapper2">
-            <a class="sectionBlock bg_orange" href="./current/index.html">
-                <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/project.svg')"></div>
+            <a class="sectionBlock bg_orange" id='con_current' href="./current/index.html">
+                <div class="block-bg">
+                    <%- include('controls/svg/prototypes_current') %>
+                </div>
                 <p class="list_title">CURRENT PROTOTYPES</p>      
             </a>     
-            <a class="sectionBlock bg_yellow2 last_block" href="./archived/index.html">
-                <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/archiving.svg')"></div> 
+            <a class="sectionBlock bg_yellow2 last_block" id='con_archiving' href="./archived/index.html">
+                <div class="block-bg">
+                   <%- include('controls/svg/prototypes_archiving') %>
+                </div> 
                 <p class="list_title">ARCHIVED PROTOTYPES</p>
             </a>
         </div>
         <div class="block-wrapper2">
-            <a class="sectionBlock bg_blue" href="./experimental/index.html">
-                <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/experimental.svg')"></div>
+            <a class="sectionBlock bg_blue" id='con_experimental' href="./experimental/index.html">
+                <div class="block-bg">
+                    <%- include('controls/svg/prototypes_experimental') %>
+                </div>
                 <p class="list_title">EXPERIMENTAL CONCEPTS</p>           
             </a>
-            <a class="sectionBlock bg_dark last_block" href="./faq/index.html">
-                <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/faq.svg')"></div> 
+            <a class="sectionBlock bg_dark last_block" id='con_faq' href="./faq/index.html">
+                <div class="block-bg">
+                    <%- include('controls/svg/prototypes_faq') %>
+                </div> 
                 <p class="list_title">TROUBLESHOOTING</p>
             </a>
         </div>

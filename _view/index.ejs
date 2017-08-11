@@ -34,12 +34,16 @@
         </a>
       </div>
       <div class="block-wrapper2">
-          <a class="sectionBlock bg_yellow" href="./research/index.html">
-            <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/research.svg')"></div> 
+          <a class="sectionBlock bg_yellow" id='sectionBlock_research' href="./research/index.html">
+            <div class="block-bg">
+                <%- include('controls/svg/index_research') %>
+            </div> 
             <p class="list_title">RESEARCH & DEVELOPMENT</p>
           </a>
-          <a class="sectionBlock bg_blue last_block" href="./team/index.html">
-            <div class="block-bg" style="background-image:url('<%= Source_img %><%= Version %>/team.svg')"></div>
+          <a class="sectionBlock bg_blue last_block" id='sectionBlock_team' href="./team/index.html">
+            <div class="block-bg">
+                <%- include('controls/svg/index_team') %>
+            </div>
             <p class="list_title">TEAM MEMBERS</p>
           </a>
       </div>
