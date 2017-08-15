@@ -103,7 +103,7 @@ window.BannerAnimation = BannerAnimation;
 $(function(){
 	WIN = $(window);
 
-	var svgs = $('.block-bg SVG');
+	var svgs = document.querySelectorAll('[data-svg]');
 	for(var i=0,l=svgs.length;i<l;i++){
 		new Banner(svgs[i]);
 	}
